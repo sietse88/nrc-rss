@@ -3,29 +3,39 @@
 <channel>
   <title>NRC</title>
   <link>https://www.nrc.nl/</link>
-  <description>NRC — Binnenland, Buitenland, Economie en Den Haag in één feed, zonder dubbele artikelen.</description>
+  <description>NRC — voorpagina, Beste van NRC, Binnenland, Buitenland, Economie en Den Haag in één feed, zonder dubbele artikelen.</description>
   <language>nl-NL</language>
   <image>
     <url>https://sietse88.github.io/nrc-rss/icon.png</url>
     <title>NRC</title>
     <link>https://www.nrc.nl/</link>
   </image>
-  <lastBuildDate>Mon, 21 Sep 2026 19:35:23 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 23:22:04 +0000</lastBuildDate>
   <item>
     <title>De politie organiseert niet langer iftars, want die kunnen ‘verwarring’ scheppen over haar ‘neutrale positie’</title>
     <link>https://www.nrc.nl/nieuws/2026/09/21/de-politie-organiseert-niet-langer-iftars-want-die-kunnen-verwarring-scheppen-over-haar-neutrale-positie-a4937198</link>
     <guid isPermaLink="false">http://www.nrc.nl/4937198</guid>
     <pubDate>Mon, 21 Sep 2026 21:03:46 +0200</pubDate>
-    <description>Vanuit Den Haag kwam kritiek op het organiseren van iftars door de politie. Het besluit van de korpsleiding om daarmee te stoppen, oogt onbegrip onder betrokken agenten. „We hebben dit dertig jaar gedaan en nu ineens deugt het niet meer?”</description>
+    <description>Vanuit Den Haag kwam kritiek op het organiseren van iftars door de politie. Het besluit van de korpsleiding om daarmee te stoppen, oogst onbegrip onder betrokken agenten. „We hebben dit dertig jaar gedaan en nu ineens deugt het niet meer?”</description>
     <enclosure url="https://images.nrc.nl/T-0OvsLIoXWd5GCG-I3KfRz7Eo0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21170554/210926VER_2036856415_iftar.jpg" length="0" type="image/jpeg"/>
     <category>Binnenland</category>
+    <category>Voorpagina</category>
+  </item>
+  <item>
+    <title>Amerikaanse media stappen naar de rechter nadat Trump hen de toegang tot het Witte Huis ontnam</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/21/amerikaanse-media-stappen-naar-de-rechter-nadat-trump-hen-de-toegang-tot-het-witte-huis-ontnam-a4937211</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4937211</guid>
+    <pubDate>Mon, 21 Sep 2026 20:12:45 +0200</pubDate>
+    <description>CNN, MS Now en Politico klagen Donald Trump aan nadat de president hen de toegang ontzegde tot het Witte Huis. Ze vragen de rechter het besluit zo snel mogelijk terug te draaien. Ook andere Amerikaanse media tonen zich solidair en stappen uit de tv-pool.</description>
+    <enclosure url="https://images.nrc.nl/KrTtmg_A_88pWaALeRgrMRd0GT8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21194635/210926VER_2036862149_press1.jpg" length="0" type="image/jpeg"/>
+    <category>Voorpagina</category>
   </item>
   <item>
     <title>Online desinformatie versterkt de dalende acceptatie van homoseksualiteit: ‘Leerlingen praten over lettersoep en genderdoctrines’</title>
     <link>https://www.nrc.nl/nieuws/2026/09/21/online-desinformatie-versterkt-de-dalende-acceptatie-van-homoseksualiteit-leerlingen-praten-over-lettersoep-en-genderdoctrines-a4937196</link>
     <guid isPermaLink="false">http://www.nrc.nl/4937196</guid>
     <pubDate>Mon, 21 Sep 2026 19:55:00 +0200</pubDate>
-    <description>&lt;p&gt;Jongeren worden steeds meer blootgesteld aan desinformatie en zelfs complottheorieën over lhbti-personen, zegt discriminatieonderzoeker Hanneke Felten. „Denk aan opvattingen als: kinderen worden spontaan homo als je ze voorlichting geeft over seksuele diversiteit.”&lt;/p&gt;</description>
+    <description>Jongeren worden steeds meer blootgesteld aan desinformatie en zelfs complottheorieën over lhbti-personen, zegt discriminatieonderzoeker Hanneke Felten. „Denk aan opvattingen als: kinderen worden spontaan homo als je ze voorlichting geeft over seksuele diversiteit.”</description>
     <enclosure url="https://images.nrc.nl/G7BnOS4_bikWriIo1tBh59U4pkI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21124219/210926BIN_2036843743_lhbtq.jpg" length="0" type="image/jpeg"/>
     <category>Binnenland</category>
   </item>
@@ -55,6 +65,7 @@
     <description>In Nederland verblijven duizenden asielzoekers in tijdelijke noodopvang als containerwoningen. Minister Van den Brink probeert meer opvangplekken af te dwingen, maar de Onderzoeksraad waarschuwt dat te harde druk de samenwerking met gemeenten kan verslechteren en afhankelijkheid van noodopvang juist verlengt.</description>
     <enclosure url="https://images.nrc.nl/esTM6yZmZ6nSmBaOeST8K2i_4MQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21122249/210926BIN_2036844496_opvang.jpg" length="0" type="image/jpeg"/>
     <category>Binnenland</category>
+    <category>Voorpagina</category>
   </item>
   <item>
     <title>Jalal O. – verdacht van de dodelijke Schammenkamp-explosie – luistert naar de slachtofferverklaringen en zegt: ‘Zoiets gun je niemand’</title>
@@ -64,6 +75,7 @@
     <description>Een explosie in het Rotterdamse Zuidwijk in 2024 verwoestte een deel van een appartementengebouw. Er vielen drie doden. De eigenaar van de bedrijfsruimte waar de ontploffing zich voordeed, houdt vol dat hij van niets wist.</description>
     <enclosure url="https://images.nrc.nl/0MPbFKwNq_53ygJO9xNgHFzVySE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21080938/210926BIN_2036831004_zuidwijk.jpg" length="0" type="image/jpeg"/>
     <category>Binnenland</category>
+    <category>Voorpagina</category>
   </item>
   <item>
     <title>Kortstondige brand bij Tata Steel veroorzaakt grote rookpluim</title>
@@ -75,6 +87,15 @@
     <category>Economie</category>
   </item>
   <item>
+    <title>Door historische verliezen in deelstaten staat kanselier Friedrich Merz onder druk om impopulaire hervormingen af te zwakken. Is hij daartoe bereid?</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/21/door-historische-verliezen-in-deelstaten-staat-kanselier-friedrich-merz-onder-druk-om-impopulaire-hervormingen-af-te-zwakken-is-hij-daartoe-bereid-a4937201</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4937201</guid>
+    <pubDate>Mon, 21 Sep 2026 17:00:10 +0200</pubDate>
+    <description>De CDU, tot voor kort aangeduid als ‘volkspartij’, vreest om haar toekomst na vernietigende uitslagen in deelstaatverkiezingen. Komende weken moet blijken of kanselier Friedrich Merz vasthoudt aan ingrepen zoals in de pensioenregelingen. In Berlijn verharden de fronten binnen de coalitie.</description>
+    <enclosure url="https://images.nrc.nl/DzzIf4iRnbGfQtj86phNpKOYQ18=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21110052/210926BUI_2036837046_2.jpg" length="0" type="image/jpeg"/>
+    <category>Voorpagina</category>
+  </item>
+  <item>
     <title>Het kabinet wil vijftig knelpunten oplossen om de woningbouw te versnellen. Maar hoe precíes, blijft onduidelijk</title>
     <link>https://www.nrc.nl/nieuws/2026/09/21/het-kabinet-wil-vijftig-knelpunten-oplossen-om-de-woningbouw-te-versnellen-maar-hoe-precies-blijft-onduidelijk-a4937163</link>
     <guid isPermaLink="false">http://www.nrc.nl/4937163</guid>
@@ -82,13 +103,14 @@
     <description>Het kabinet heeft maandag plannen gepresenteerd die laten zien wat er moet gebeuren om jaarlijks 100.000 woningen erbij te kunnen bouwen. Maar wie hoopte te lezen hoe dit precies moet gebeuren, blijft teleurgesteld achter.</description>
     <enclosure url="https://images.nrc.nl/LJhvhlLkXiIxPVNGbd_FBdK7uPo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21131300/210926DEN_2036836646_woningnood01.jpg" length="0" type="image/jpeg"/>
     <category>Binnenland</category>
+    <category>Voorpagina</category>
   </item>
   <item>
-    <title>Hoe burgers het buitengebied beschermen: &amp;#8216;Iederéén kan helpen om landbouw en natuur in balans te brengen&amp;#8217;</title>
+    <title>Hoe burgers het buitengebied beschermen: ‘Iederéén kan helpen om landbouw en natuur in balans te brengen’</title>
     <link>https://www.nrc.nl/nieuws/2026/09/21/hoe-burgers-het-buitengebied-beschermen-iedereen-kan-helpen-om-landbouw-en-natuur-in-balans-te-brengen-a4934068</link>
     <guid isPermaLink="false">http://www.nrc.nl/4934068</guid>
     <pubDate>Mon, 21 Sep 2026 16:01:56 +0200</pubDate>
-    <description>&lt;p&gt;Ook gewone burgers kunnen helpen om het landschap gezond te krijgen en te houden. Drie mensen die betrokken zijn bij burgerinitiatieven om de natuur te herstellen en boeren te helpen te verduurzamen vertellen hoe ze te werk gaan. „Het fijne is: wij zijn gewoon burgers die willen helpen, we zijn niet bedreigend.”&lt;/p&gt;</description>
+    <description>Ook gewone burgers kunnen helpen om het landschap gezond te krijgen en te houden. Drie mensen die betrokken zijn bij burgerinitiatieven om de natuur te herstellen en boeren te helpen te verduurzamen vertellen hoe ze te werk gaan. „Het fijne is: wij zijn gewoon burgers die willen helpen, we zijn niet bedreigend.”</description>
     <enclosure url="https://images.nrc.nl/WumpvAVGiPBxciy7CorWQML073Q=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09154832/160926BIN_2035411689_buitengebied07.jpg" length="0" type="image/jpeg"/>
     <category>Binnenland</category>
   </item>
@@ -100,6 +122,7 @@
     <description>Bang dat AI de wereld overneemt? In de eerste door een AI-model gerunde winkel in San Francisco is de managementstijl vooral relaxed. Misschien iets te. „Met de financiën gaat het niet zo goed.”</description>
     <enclosure url="https://images.nrc.nl/MIT87-nBrXqDc5XLN3lA0dqykZM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/17094507/180926ECO_2036544724_Andon.jpg" length="0" type="image/jpeg"/>
     <category>Economie</category>
+    <category>Voorpagina</category>
   </item>
   <item>
     <title>Landen gebruiken uitzondering in Europese begrotingsregels voor meer dan alleen defensie-uitgaven, tegen de afspraak in</title>
@@ -111,13 +134,14 @@
     <category>Economie</category>
   </item>
   <item>
-    <title>Ook AIVD en MIVD gebruiken AI, maar de handleiding voor wat wel/niet mag ontbreekt. ‘Ze zijn daarbij niet goed in control’, zegt de toezichthouder</title>
+    <title>Inlichtingendiensten gebruiken steeds vaker AI, maar de handleiding voor wat wel en niet mag ontbreekt</title>
     <link>https://www.nrc.nl/nieuws/2026/09/21/inlichtingendiensten-gebruiken-steeds-vaker-ai-maar-de-handleiding-voor-wat-wel-en-niet-mag-ontbreekt-a4936830</link>
     <guid isPermaLink="false">http://www.nrc.nl/4936830</guid>
     <pubDate>Mon, 21 Sep 2026 14:00:00 +0200</pubDate>
     <description>De toezichthouder signaleert in een rapport dat regelgeving voor gebruik van AI binnen AIVD en MIVD achter de feiten aan loopt. Terwijl de beoogde nieuwe inlichtingenwet de bevoegdheden aanzienlijk verruimt, zijn medewerkers zich volgens de commissie onvoldoende bewust van de kwetsbaarheden.</description>
     <enclosure url="https://images.nrc.nl/l4OyF0SyBxaJ9tOnxBjlphZGVHk=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/16164539/210926VER_2036746027_aivd.jpg" length="0" type="image/jpeg"/>
     <category>Binnenland</category>
+    <category>Voorpagina</category>
   </item>
   <item>
     <title>Ierse toezichthouder legt Google 403 miljoen euro boete op</title>
@@ -127,6 +151,15 @@
     <description>De Ierse privacywaakhond DPC heeft Google een miljoenenboete opgelegd voor het overtreden van regels rond de omgang met locatiegegevens.</description>
     <enclosure url="https://images.nrc.nl/6xc-dngCOBPs198zE1bnduN--oU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21120800/210926ECO_2036844352_google.jpg" length="0" type="image/jpeg"/>
     <category>Economie</category>
+  </item>
+  <item>
+    <title>Een boek over prinses Diana laat oude controverses rond de Britse royals herleven. Enkele fragmenten pakken pijnlijk uit voor het Koninklijk Huis</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/21/boek-van-de-broer-van-prinses-diana-laat-oude-controverses-uit-het-britse-koninklijk-huis-herleven-a4937151</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4937151</guid>
+    <pubDate>Mon, 21 Sep 2026 11:54:58 +0200</pubDate>
+    <description>De toenmalige kroonprins, nu koning, Charles, klonk „nerveus opgetogen” over de dood van zijn ex Diana, schrijft haar broer Charles Spencer. In sommige opzichten lijken haar ervaringen op die van haar zoon Harry en zijn echtgenote Meghan, zegt Spencer.</description>
+    <enclosure url="https://images.nrc.nl/4MatPPAUu7YXdk5Qul4QrACRvAk=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/18161501/210926BUI_2036774391_Diana01.jpg" length="0" type="image/jpeg"/>
+    <category>Voorpagina</category>
   </item>
   <item>
     <title>&amp;#8216;Heineken gaat 300 Britse pubs overnemen&amp;#8217;</title>
@@ -219,6 +252,15 @@
     <category>Economie</category>
   </item>
   <item>
+    <title>Hoe ga je als vrouwelijke topsporter met je kinderwens om?</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/20/hoe-ga-je-als-vrouwelijke-topsporter-met-je-kinderwens-om-a4936898</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4936898</guid>
+    <pubDate>Sun, 20 Sep 2026 11:32:10 +0200</pubDate>
+    <description>Veel lof voor clubs en bonden die vrouwen de mogelijkheid geven hun eicellen in te vriezen. Maar er is ook ongemak. Want als de baas betaalt, is het dan ook de baas die bepaalt?</description>
+    <enclosure url="https://images.nrc.nl/BdeoWf3dSdZL2oTk9IdWLxEswUY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/17105225/180926SPO_2036757577_spanje.jpg" length="0" type="image/jpeg"/>
+    <category>Voorpagina</category>
+  </item>
+  <item>
     <title>Leven we aan de rand van ‘collapse’?</title>
     <link>https://www.nrc.nl/nieuws/2026/09/20/leven-we-aan-de-rand-van-collapse-a4937054</link>
     <guid isPermaLink="false">http://www.nrc.nl/4937054</guid>
@@ -270,6 +312,7 @@
     <pubDate>Fri, 18 Sep 2026 19:55:00 +0200</pubDate>
     <description>Hij werd succesvol door een combinatie van genialiteit, brutaliteit en een nietsontziende managementstijl. Zoals in 2023, toen hij de naam van bunqs nieuwe chatbot kaapte van het grote ING. Dinsdag publiceert &lt;b&gt;NRC &lt;/b&gt;een ongeautoriseerde biografie van bunq-topman Ali Niknam, een van de rijkste ondernemers van Nederland.</description>
     <enclosure url="https://images.nrc.nl/xmJeCmPRsRuj2dkagshAGxZQ25c=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/18121851/180926OND_2036392683_Niknam.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Economie</category>
   </item>
   <item>
@@ -306,6 +349,7 @@
     <pubDate>Fri, 18 Sep 2026 19:00:00 +0200</pubDate>
     <description>Werknemers vallen vaker en langer uit – vooral vrouwen tussen de 31 en 40 jaar. De oorzaken zijn divers: thuiswerken, meer prikkels, de combinatie van zorg en werk. Werkgevers kunnen niet overal wat aan doen. „Jongeren vergelijken zich meer met anderen.”</description>
     <enclosure url="https://images.nrc.nl/JqTgCJyBP7n3pcqA4aOWQGZZx1w=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/14135112/BurnOut_Animatie_header.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Economie</category>
   </item>
   <item>
@@ -315,6 +359,7 @@
     <pubDate>Fri, 18 Sep 2026 17:41:57 +0200</pubDate>
     <description>AI-bedrijven waarschuwen voor extreme risico’s, maar onder veiligheidsexperts is grote verdeeldheid over hoe reëel het gevaar is. En tussen een AI-hack en uitroeiing zitten nogal wat stappen. Toch: „Menselijk uitsterven is nogal een dingetje.”</description>
     <enclosure url="https://images.nrc.nl/B7YUSRZAnRO2r25Vp5ArGsZhMi0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/18104618/180926ECO_2036690853_-web-thumbnail-uitgelicht.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Economie</category>
   </item>
   <item>
@@ -441,6 +486,7 @@
     <pubDate>Fri, 18 Sep 2026 05:00:00 +0200</pubDate>
     <description>Hans, een gepensioneerd ingenieur uit Kerkdriel, stopte 122.000 euro in beleggingen, na het zien van een advertentie voor cryptovaluta met Geert Wilders. Het was allemaal nep, geconstrueerd door een Israëlisch softwarebedrijf, een behulpzame ‘Britse’ portfoliomanager en diens hulpjes in Estland.</description>
     <enclosure url="https://images.nrc.nl/lEaSOf9M4pa3cO6c_sABCIg_RVU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/15165122/170926OND_2034828347_WEB_FI_ILLU_Montage-Rood_Oplichtingssoftware_Leila-Hak.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Economie</category>
   </item>
   <item>
@@ -487,6 +533,15 @@
     <description>Ruim drie weken nadat een kolkende stroom van water, modder en puin door Nepal raasde, vervliegt de hoop dat er nog overlevenden worden gevonden in het rampgebied, dat is bedekt met een dikke laag slib. In de beschadigde woningen getuigen achtergebleven persoonlijke bezittingen van de levens die door de ramp zijn verwoest.</description>
     <enclosure url="https://images.nrc.nl/c2xnr-XgSwjSPQTHcSDTKqPD1no=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/14120832/FOT_2036659998_11.jpg" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>Immigratiedienst IND laat tweehonderd medewerkers met AI werken zonder dat te melden</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/17/immigratiedienst-ind-laat-tweehonderd-medewerkers-met-ai-werken-zonder-dat-te-melden-a4936653</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4936653</guid>
+    <pubDate>Thu, 17 Sep 2026 15:58:51 +0200</pubDate>
+    <description>Sinds enige tijd blijkt de IND twee AI-systemen te gebruiken waarmee medewerkers asielaanvragen vlugger kunnen afhandelen. Dat kan inderdaad tijdswinst opleveren, maar ook risico’s, zeggen experts. „We weten dat AI geregeld de verkeerde conclusies trekt.”</description>
+    <enclosure url="https://images.nrc.nl/MerGwmrnuAxd_TDpsj6dBq8jvqE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/10100608/140926BIN_2036526973_IND.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>De boodschap achter Poetins glimlach? ‘Wees loyaal aan de leider, de rest is slechts bonus of luxe’</title>
@@ -586,7 +641,17 @@
     <pubDate>Wed, 16 Sep 2026 19:50:00 +0200</pubDate>
     <description>Gaat de strijd op 3 november tussen communisme en &lt;b&gt;common sense&lt;/b&gt;, zoals Trump vorige week beweerde? Of raken de president en zijn Republikeinse partij zelf het politieke midden kwijt? Juist door Trumps besluit om MAGA-kandidaten te steunen en loyaliteit te eisen, zit zijn partij in meer staten dan nodig in het defensief.</description>
     <enclosure url="https://images.nrc.nl/RFJxonl66KyZUO7ZQICqYp4amak=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/16094846/160926BUI_2036427175_talarico.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>De wonderbaarlijke waardestijging van 23 boswoningen: hoe seniorenwoningen in Zeist werden verkocht aan een investeerder en 2,5 keer over de kop op de markt belandden</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/16/de-wonderbaarlijke-waardestijging-van-23-boswoningen-hoe-een-zorginstelling-miljoenen-aan-inkomsten-misliep-a4936125</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4936125</guid>
+    <pubDate>Wed, 16 Sep 2026 19:49:00 +0200</pubDate>
+    <description>Een zorginstelling verkocht 23 ‘permanente’ huurwoningen voor ouderen voor 3,8 miljoen euro aan beleggers. Nog geen jaar later werden de eerste huisjes voor bijna tweeënhalf keer de aankoopprijs verkocht. Hoe kon dit onder het oog van de toezichthouder gebeuren?</description>
+    <enclosure url="https://images.nrc.nl/8eo3sUDZJcoZsKBawlDqiiSOJGo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09114328/ECO_2036414392_1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Kabinet geeft conceptbegroting die tot crisis leidde vrij</title>
@@ -631,6 +696,7 @@
     <pubDate>Wed, 16 Sep 2026 15:41:44 +0200</pubDate>
     <description>Europa moet in deze „openlijk vijandige” wereld vooral voor zichzelf opkomen, vindt Europese Commissievoorzitter Von der Leyen. Een hechte samenwerking met Canada is daar het levende bewijs van. Ze wil het land zelfs de kans geven ‘geassocieerd lid’ van de EU te worden. „We delen één oceaan, één stel waarden, één manier om naar de wereld te kijken.”</description>
     <enclosure url="https://images.nrc.nl/pkd5N5ZhLKRNglD-fXR6VdJU_Cg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/16130252/160926BUI_2036279426_ursula1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Buitenland</category>
   </item>
   <item>
@@ -697,6 +763,15 @@
     <category>Den Haag</category>
   </item>
   <item>
+    <title>Wat zei de koning in de Troonrede, wat bedoelde het kabinet daarmee en welke passages vielen op?</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/15/wat-zei-de-koning-in-de-troonrede-wat-bedoelde-het-kabinet-daarmee-en-welke-passages-vielen-op-a4936574</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4936574</guid>
+    <pubDate>Tue, 15 Sep 2026 17:05:21 +0200</pubDate>
+    <description>Koning Willem-Alexander sprak in de Troonrede namens het minderheidskabinet-Jetten veel over samenwerken, maar waarschuwde de volksvertegenwoordigers dat „niet alles tegelijk” kan worden opgelost.</description>
+    <enclosure url="https://images.nrc.nl/eG-UM4egEsT7YxfBO_reRhUUzV8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/15162622/150926BIN_2035833483_troonrede1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>Je paspoort inleveren bij je baas en voor je vlucht een telefoontje van de politie. China maakt buitenlandse reizen moeilijker</title>
     <link>https://www.nrc.nl/nieuws/2026/09/15/je-paspoort-inleveren-bij-je-baas-en-voor-je-vlucht-een-telefoontje-van-de-politie-china-maakt-buitenlandse-reizen-moeilijker-a4936681</link>
     <guid isPermaLink="false">http://www.nrc.nl/4936681</guid>
@@ -733,6 +808,15 @@
     <category>Buitenland</category>
   </item>
   <item>
+    <title>De politie zag Alfredo (51) ten onrechte aan voor een fietsendief. Hij overleed bij zijn arrestatie</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/14/de-politie-zag-alfredo-51-ten-onrechte-aan-voor-een-fietsendief-hij-overleed-bij-zijn-arrestatie-a4936597</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4936597</guid>
+    <pubDate>Mon, 14 Sep 2026 22:25:44 +0200</pubDate>
+    <description>De politie bevestigt tegenover &lt;b&gt;NRC &lt;/b&gt;dat de 51-jarige Rotterdammer die afgelopen weekend overleed bij een hardhandige arrestatie onschuldig was. Hij reed niet rond op een gestolen fiets. In een stille tocht rouwden maandag honderden mensen om zijn dood.</description>
+    <enclosure url="https://images.nrc.nl/PKNYX5HPhStsCNJCvj9KXyfNgfw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/14213725/140926BIN_2036673402_stilletocht.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>Op Prinsjesdag zijn er petitfourtjes bij de PVV</title>
     <link>https://www.nrc.nl/nieuws/2026/09/14/op-prinsjesdag-zijn-er-petitfourtjes-bij-de-pvv-a4936602</link>
     <guid isPermaLink="false">http://www.nrc.nl/4936602</guid>
@@ -766,6 +850,7 @@
     <pubDate>Mon, 14 Sep 2026 17:11:37 +0200</pubDate>
     <description>Veel te rechts, zo oordeelden D66 en CDA eind augustus over de eigen begroting van minister van Financiën Eelco Heinen (VVD). Onzin, vindt de VVD: ze bevatte genoeg gestes aan de oppositie. Tijd voor een vergelijking tussen de uiteindelijke Miljoenennota en het oorspronkelijke plan van Heinen, dat &lt;b&gt;NRC&lt;/b&gt; heeft ingezien.</description>
     <enclosure url="https://images.nrc.nl/EAf92OWR_t_6mr6IV2FzYknngRY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/14140717/140926DEN_2036649669_heinen.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Den Haag</category>
   </item>
   <item>
@@ -812,6 +897,7 @@
     <pubDate>Mon, 14 Sep 2026 13:35:48 +0200</pubDate>
     <description>Na acht moorden in een week laait in Kameroen de discussie op over strengere straffen voor femicide. „Vrouwen durven hier niet te praten over het geweld waarmee zij te maken krijgen.”</description>
     <enclosure url="https://images.nrc.nl/Xk5CopPFltVfoAYj4Nx70lmHKeM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/02125549/020926BUI_2036367020_1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Buitenland</category>
   </item>
   <item>
@@ -941,6 +1027,15 @@
     <category>Buitenland</category>
   </item>
   <item>
+    <title>Voor The New York Times onderzoekt journalist Christiaan Triebert beelden van burgerslachtoffers: ‘Ik zet het geluid na de eerste keer uit’</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/11/christiaan-triebert-bekijkt-dag-na-dag-beelden-van-burgerslachtoffers-ik-zet-het-geluid-na-de-eerste-keer-uit-anders-blijft-het-doorklinken-in-mijn-hoofd-a4935889</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935889</guid>
+    <pubDate>Fri, 11 Sep 2026 19:54:00 +0200</pubDate>
+    <description>De Nederlandse journalist Christiaan Triebert onderzoekt voor &lt;b&gt;The New York Times&lt;/b&gt; hoe burgers omkomen bij luchtaanvallen. Hij weet waar hij het voor doet. „Het Pentagon gaf na ons onderzoek toe dat ze verkeerd zaten.”</description>
+    <enclosure url="https://images.nrc.nl/hEXixBj6XNs6zpNjnTj9awu3G7U=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/07131144/110926WEE_2034939991_1-1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>Mogen de oogkleppen af bij de discussie over belasting op inkomsten uit vermogen?</title>
     <link>https://www.nrc.nl/nieuws/2026/09/11/mogen-de-oogkleppen-af-bij-de-discussie-over-belasting-op-inkomsten-uit-vermogen-a4936411</link>
     <guid isPermaLink="false">http://www.nrc.nl/4936411</guid>
@@ -974,6 +1069,7 @@
     <pubDate>Fri, 11 Sep 2026 18:28:00 +0200</pubDate>
     <description>Wat jarenlang sciencefiction was, is nu gebeurd: deze zomer spanden agents van OpenAI samen om hun menselijke makers te misleiden. Experts, AI-bedrijven en politici reageren geschokt op nieuwe zorgelijke details. Er dreigt een „catastrofaal en onomkeerbaar verlies van controle”, volgens OpenAI zelf.</description>
     <enclosure url="https://images.nrc.nl/DjxXL1tNHYleum27ZdceSP_6Grw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/11131151/110926ECO_2036531717_WEB_HP_ILLU_Bedrijven-controle-kwijt_Lynne-Brouwer.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Economie</category>
   </item>
   <item>
@@ -1049,6 +1145,15 @@
     <category>Economie</category>
   </item>
   <item>
+    <title>Hoe Ongehoord Nederland al het krediet verspeelde</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/11/hoe-ongehoord-nederland-al-het-krediet-verspeelde-a4936279</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4936279</guid>
+    <pubDate>Fri, 11 Sep 2026 15:06:26 +0200</pubDate>
+    <description>Al voor de allereerste uitzending in 2022 werd voorzien dat het toelaten van Ongehoord Nederland tot het publieke bestel problemen zou opleveren. Na klachten van kijkers, een interne machtsstrijd, opgelegde boetes en een Hitler-fragment lijkt het einde nu nabij.</description>
+    <enclosure url="https://images.nrc.nl/ro_XWKvKMVvvxjYaM_7Llg1pGas=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09210321/110926DEN_2036568024_rz2.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>China en India werken in de marge van de BRICS-top aan hun gespannen relatie</title>
     <link>https://www.nrc.nl/nieuws/2026/09/11/china-en-india-werken-in-de-marge-van-de-brics-top-aan-hun-gespannen-relatie-a4936370</link>
     <guid isPermaLink="false">http://www.nrc.nl/4936370</guid>
@@ -1110,6 +1215,15 @@
     <description>De roze iDeal-knop op webshops kleurt steeds geler, in aanloop naar de vervanging van dit betaalsysteem door Wero. Dat presenteert zichzelf als Europees alternatief voor de macht van het Amerikaanse MasterCard en Visa. Maar winkeliers vinden het prijzig.</description>
     <enclosure url="https://images.nrc.nl/vpwL4czSFEQOfjPi7n1i3a7yTi0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/11111655/100926ECO_2036581897_Wero.jpg" length="0" type="image/jpeg"/>
     <category>Economie</category>
+  </item>
+  <item>
+    <title>’s Avonds verandert het centrum van Rotterdam in een racebaan. Dus opende de stad het offensief tegen luidruchtige ‘verkeersaso’s’</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/11/s-avonds-verandert-het-centrum-van-rotterdam-in-een-racebaan-dus-opende-de-stad-het-offensief-tegen-luidruchtige-verkeersasos-a4935998</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935998</guid>
+    <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Met afzettingen en verkeersregelaars lukte het Rotterdam deze zomer de overlast van optrekkende auto’s en motoren terug te dringen. Daarmee is het probleem niet verholpen. „Alles schreeuwt: jongens, je kunt hier geen rondje rijden. En toch proberen ze het.”</description>
+    <enclosure url="https://images.nrc.nl/YGw46_TcHGs6BL48hV3v3hnfEKo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09140541/100926BIN_2036333611_geluidsoverlast3.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Deze leesonderzoeker was ‘wel een beetje gechoqueerd’ toen ze onderzocht hoe basisscholen in Nederland begrijpend lezen onderwezen</title>
@@ -1184,6 +1298,15 @@
     <category>Economie</category>
   </item>
   <item>
+    <title>De verborgen klimaatschade achter ‘duurzame’ biomassa. Politie doet onderzoek naar energiegigant RWE</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/10/de-verborgen-klimaatschade-achter-duurzame-biomassa-politie-doet-onderzoek-naar-energiegigant-rwe-a4935129</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935129</guid>
+    <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+    <description>Energieproducent RWE verbrandt in Nederlandse energiecentrales hout waarvan de kap Maleisische bossen aantast. De toezichthouder stelde dit zelf vast, maar gaf het hout toch het stempel ‘duurzaam’. De politie en de Voedsel- en Warenautoriteit doen onderzoek.</description>
+    <enclosure url="https://images.nrc.nl/YJoUBowurwA-EtC5f0G4HEkQFkU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09113213/100926OND_2036171217_Houtkorrels-Lynne-Brouwer-HP.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>‘Saoedi-Arabië heeft zich tot nu toe ingehouden, maar dat biedt geen garantie.’ Waarom er in het Midden-Oosten om een tweede cruciale zeestraat gestreden wordt</title>
     <link>https://www.nrc.nl/nieuws/2026/09/09/de-houthis-proberen-van-saoedi-arabie-een-zondebok-te-maken-een-duivel-die-verslagen-moet-worden-a4936164</link>
     <guid isPermaLink="false">http://www.nrc.nl/4936164</guid>
@@ -1191,6 +1314,15 @@
     <description>Behalve rond de Straat van Hormuz wordt er in het Midden-Oosten ook gevochten om een andere cruciale zeestraat: de Bab al-Mandeb. De Houthi’s vallen daarbij Saoedi-Arabië aan. „Het draait vooral om economie en macht.”</description>
     <enclosure url="https://images.nrc.nl/bSmMYDXgXQjZYzmJ18TxfPnpKYY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/08123014/080926BUI_2036519582_1.jpg" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>Tentjes in bosjes en onder fly-overs, een parallelle wereld in Amsterdam-Zuidoost: ‘Wij zijn Roma, maar we stelen niet’</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/09/tentjes-in-bosjes-en-onder-fly-overs-van-het-spoor-een-parallelle-wereld-in-amsterdam-zuidoost-wij-zijn-roma-maar-we-stelen-niet-a4935662</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935662</guid>
+    <pubDate>Wed, 09 Sep 2026 21:30:00 +0200</pubDate>
+    <description>Het aantal daklozen in Nederland groeit de laatste jaren. En dat is misschien wel het meest zichtbaar in Amsterdam-Zuidoost, waar ruimte is in het vele groen en kampjes ontstaan die je eerder zag in landen met veel armoede. De bewoners, veelal Roma, leven er vaak in familie- of dorpsverband.</description>
+    <enclosure url="https://images.nrc.nl/kJu1ir0G_mxPU7hSal4AWwpB400=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09133721/100926BIN_2035947971_roma1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>De Iran-oorlog 'klein bier', zoals Trump zegt? Reken eerder op escalatie</title>
@@ -1209,6 +1341,15 @@
     <description>De Franse journalist Frédéric Martel maakte een uitputtende rondgang langs de vele gedaanten van vijandigheid tegenover de westerse beschaving in de wereld. Maar voor de voedingsbodem van al dat hevige ressentiment heeft hij geen enkel oog.</description>
     <enclosure url="https://images.nrc.nl/FFKnOokBOLfA-bp-O9QSqNC70R8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09130000/100926BOE_2035819347_1.jpg" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>Van Museum Voorlinden tot Fenix en Hartwig: het privémuseum of ‘miljonairsmuseum’ is in opkomst. Wat verklaart het succes?</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/09/van-museum-voorlinden-tot-fenix-en-hartwig-het-privemuseum-of-miljonairsmuseum-is-in-opkomst-wat-verklaart-het-succes-a4932894</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4932894</guid>
+    <pubDate>Wed, 09 Sep 2026 13:56:17 +0200</pubDate>
+    <description>Museum Voorlinden in Wassenaar bestaat deze week tien jaar, maar het succesvolle museum is allerminst het enige museum van particuliere vermogenden. Komende maanden komen er vier nieuwe bij in Nederland. Verandert dat iets aan het museumlandschap?</description>
+    <enclosure url="https://images.nrc.nl/6-I9A-4V79UXeCTz1PKnZ8rG0iI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/07165959/090926CUL_2035001546_Voorlinden.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Organisatie die tenten uitdeelde aan asielzoekers vertrekt uit Ter Apel: ‘We willen niet medeplichtig zijn aan het systeem waar we tegen strijden’</title>
@@ -1247,6 +1388,15 @@
     <category>Buitenland</category>
   </item>
   <item>
+    <title>Ministerie van Justitie checkt vooraf zijn eigen wetten vaak niet. Gevolg: onuitvoerbare regels en personeelstekorten</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/08/ministerie-van-justitie-checkt-vooraf-haar-eigen-wetten-vaak-niet-gevolg-onuitvoerbare-regels-en-personeelstekorten-a4935741</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935741</guid>
+    <pubDate>Tue, 08 Sep 2026 19:55:00 +0200</pubDate>
+    <description>Circa de helft van de nieuwe wetten die het justitiedepartement uitvaardigt, wordt niet of maar half getoetst op uitvoerbaarheid en personele consequenties. Pas na invoering worden de gevolgen zichtbaar. „Er is iets grondig mis op het ministerie.”</description>
+    <enclosure url="https://images.nrc.nl/XjQpbChT5CqEogzInMSJhoCEtMA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04164545/070926BIN_2036348140_2.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>De bloeitijd voor Oekraïense tele-oplichters lijkt voorbij – maar wie zat er allemaal met zijn vinger in de honingpot?</title>
     <link>https://www.nrc.nl/nieuws/2026/09/08/de-bloeitijd-voor-oekraiense-tele-oplichters-lijkt-voorbij-maar-wie-zat-er-allemaal-met-zijn-vinger-in-de-honingpot-a4936169</link>
     <guid isPermaLink="false">http://www.nrc.nl/4936169</guid>
@@ -1254,6 +1404,15 @@
     <description>De callcentra-industrie in Oekraïne ontstond na het uitbreken van de oorlog in 2014, en groeide explosief na de grootscheepse invasie van 2022. In eerste instantie richtte ze zich tegen Russische burgers, maar nu ook Europeanen de dupe worden, trekt Oekraïne de stekker eruit.</description>
     <enclosure url="https://images.nrc.nl/Gr5dwf_FQhLXDNRPPpAxwd3f8ac=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/08115602/080926BUI_2036519728_1.jpg" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>Wie heeft wie niet wakker gemaakt? Kritiek op  Netanyahu omdat 'hij niets deed met waarschuwing voor een grootschalige aanval van Hamas in 2023'</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/08/wie-heeft-wie-niet-wakker-gemaakt-kritiek-op-netanyahu-omdat-hij-niets-deed-met-waarschuwing-voor-de-aanval-van-hamas-op-7-oktober-2023-a4936158</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4936158</guid>
+    <pubDate>Tue, 08 Sep 2026 16:00:47 +0200</pubDate>
+    <description>De Israëlische premier Netanyahu kreeg anderhalve week voor 7 oktober een telefoontje van de president van de Verenigde Arabische Emiraten, die hem waarschuwde voor een op handen zijnde aanval van Hamas, bericht &lt;b&gt;Haaretz&lt;/b&gt;. Hij zou niets hebben gedaan. De premier ontkent, maar krijgt felle kritiek.</description>
+    <enclosure url="https://images.nrc.nl/IYhlYV_R_2--sCekF85DoQ2sOj4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/08111616/080926BUI_2036516111_netanyahu2.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Amerikaanse sanctiebeleid jaagt Europese internetsector angst aan</title>
@@ -1280,6 +1439,7 @@
     <pubDate>Tue, 08 Sep 2026 10:53:41 +0200</pubDate>
     <description>Hoogleraar Maarten Wolbers vindt dat de oplossing voor de leescrisis te veel wordt gezocht in het onderwijs. „Het speelt ook in de privesfeer.”</description>
     <enclosure url="https://images.nrc.nl/0IjCtlKE6f5aLhK_BpBuDcs2d40=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/08102300/080926BIN_2036388870_lezen.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Binnenland</category>
   </item>
   <item>
@@ -1308,6 +1468,15 @@
     <description>Sinds de Verenigde Staten internetcollectief Autistici/Inventati labelde als terroristisch, kan de organisatie geen donaties meer ontvangen en wil de bank geen zaken meer met…</description>
     <enclosure url="https://images.nrc.nl/ZOVYt7gRsehuoSLpzaacLew_PUc=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2020/11/nrcpodcastfeatured-image1280x768v01vandaag.png" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>Regenwater dat bij de spoedeisende hulp naar binnen stroomt en ambulances blokkeert. Nieuwe data laten zien: hoosbuien worden ‘groot probleem’</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/07/regenwater-dat-bij-de-spoedeisende-hulp-naar-binnen-stroomt-en-ambulances-blokkeert-nieuwe-data-laten-zien-hoosbuien-worden-groot-probleem-a4935788</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935788</guid>
+    <pubDate>Mon, 07 Sep 2026 19:55:00 +0200</pubDate>
+    <description>Door klimaatverandering krijgt Nederland steeds zwaardere buien te verduren. &lt;b&gt;NRC&lt;/b&gt; onderzocht hoe hoog het water kan komen te staan in de omgeving van de eerste hulp, ziekenhuizen, zorginstellingen, kazernes en scholen. „Nederland is onvoldoende voorbereid.”</description>
+    <enclosure url="https://images.nrc.nl/aGGwP6Bi1-HrNsB_htqXIe2aTPQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/07171347/070926BIN_2036396427_heitink.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Haagse politici praten hun ruzies uit in het café van de Tweede Kamer</title>
@@ -1361,6 +1530,7 @@
     <pubDate>Sun, 06 Sep 2026 18:00:00 +0200</pubDate>
     <description>Sinds begin augustus werd bij acht defensiebedrijven in zes Europese landen brand gesticht, van een fabriek voor militaire robots in Estland tot een munitieopslag in Bulgarije. Het is lastig te bewijzen, maar veel wijst op Russische betrokkenheid.</description>
     <enclosure url="https://images.nrc.nl/hgMcTsLF5fd5oOqzh46m6RPfGaY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/01173011/030926BUI_2036308610_2.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Buitenland</category>
   </item>
   <item>
@@ -1370,7 +1540,17 @@
     <pubDate>Sun, 06 Sep 2026 14:00:00 +0200</pubDate>
     <description>De ebola-uitbraak in Congo is de grootste die dat land heeft meegemaakt. Twaalf jaar geleden kende West-Afrika de dodelijkste epidemie van deze ziekte ooit. Wat hebben hulpverleners geleerd van die uitbraak en hoe valt die kennis in Congo in de praktijk te brengen? „Uitleggen wat we deden, bleek essentieel.”.</description>
     <enclosure url="https://images.nrc.nl/Zl3XY-32Nz3fQlg8oiFDWH4PGZQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/03111635/060926BUI_2036045159_1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>‘De overheid moet aandacht hebben voor het verdriet van boeren’, zegt onderzoeker die promoveert op ‘ecologische rouw’</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/06/de-overheid-moet-aandacht-hebben-voor-het-verdriet-van-boeren-zegt-onderzoeker-die-promoveert-op-ecologische-rouw-a4935668</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935668</guid>
+    <pubDate>Sun, 06 Sep 2026 13:00:00 +0200</pubDate>
+    <description>Het nieuwe stikstofbeleid kan ertoe leiden dat sommige boeren hun bedrijf verliezen. Marjolein van Woerkom doet aan de universiteit van Wageningen onderzoek naar rouw bij boeren. „Ik sprak een uitgekochte boer. Die vroeg zich af: wie ben ik nog zonder mijn land?”</description>
+    <enclosure url="https://images.nrc.nl/E1jB2IcjRP8kO-o7Llu38_A18XI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04121037/040926BIN_2035588969_VanWoerkom01.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Lukt het scholen de leescrisis in Nederland aan te pakken? Een belangrijk internationaal onderwijsrapport over het leerniveau van 15-jarigen moet dat uitwijzen</title>
@@ -1379,7 +1559,17 @@
     <pubDate>Sun, 06 Sep 2026 11:00:00 +0200</pubDate>
     <description>Uit het PISA-rapport van 2023 bleek dat het dramatisch gesteld was met de leesvaardigheid van Nederlandse jongeren. Dinsdag komt de nieuwe meting uit. Scholen kregen in de tussentijd extra geld voor taal- en rekenonderwijs. Effect daarvan is nog niet te zien.</description>
     <enclosure url="https://images.nrc.nl/7AkYV3Ha-GpW9aGSHPr-ipparrk=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/05122456/030926BIN_2036396008_lezen-1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Binnenland</category>
+  </item>
+  <item>
+    <title>Op het verbod op gezichtsbedekkende kleding bij demonstraties kwam veel kritiek. Toch zette de minister door, nu is er weinig over van het voorstel</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/06/hoe-er-niets-terechtkwam-van-een-verbod-op-gezichtsbedekkende-kleding-bij-demonstraties-a4935778</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935778</guid>
+    <pubDate>Sun, 06 Sep 2026 05:00:00 +0200</pubDate>
+    <description>Op aandringen van de Tweede Kamer kwam justitieminister David van Weel (VVD) met een voorstel om gezichtsbedekking bij demonstraties te verbieden. Van alle kanten volgde kritiek, ook van de eigen ambtenaren, zo blijkt uit onderzoek, maar de minister hield eraan vast. Nu lijkt het voorstel een zachte dood te sterven.</description>
+    <enclosure url="https://images.nrc.nl/iLLpUh8GJa5SSMo5JEnDpTs2-gU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/03140531/060926BIN_2036362074_1-1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>De begrotingscrisis legt de verhoudingen binnen de coalitie bloot</title>
@@ -1400,12 +1590,31 @@
     <category>Buitenland</category>
   </item>
   <item>
+    <title>Gloria Steinem veranderde Amerika, ze was een boegbeeld van het feminisme</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/04/als-boegbeeld-van-het-feminisme-veranderde-gloria-steinem-amerika-a4935926</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935926</guid>
+    <pubDate>Fri, 04 Sep 2026 18:05:45 +0200</pubDate>
+    <description>De essayist en activist streed voor gelijke rechten van vrouwen, voor abortus, tegen seksueel geweld. Steinem brak door nadat ze voor een reportage undercover was gegaan als Playboy Bunny.</description>
+    <enclosure url="https://images.nrc.nl/34dli8q0cyhwCrp1hdyJr80GiPg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04141539/040926BUI_2036448388_thuis-2015.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
+    <title>Twee kanten van ‘narcostaat Nederland’: ondanks miljarden voor bestrijding van criminaliteit, krijgen drugs steeds meer grip op de samenleving</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/04/de-twee-kanten-van-nacrostaat-nederland-miljarden-tegen-drugscriminaliteit-maar-de-vraag-blijft-stijgen-a4935807</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935807</guid>
+    <pubDate>Fri, 04 Sep 2026 16:50:35 +0200</pubDate>
+    <description>In Overasselt werd ‘narcostaat Nederland’ afgelopen dinsdag weer genadeloos zichtbaar. Alleen al in 2025 kampten de regionale teams tegen ondermijnende criminaliteit met 1.200 ‘casussen’. Wat heeft de strijd tegen ondermijning de laatste jaren opgeleverd?</description>
+    <enclosure url="https://images.nrc.nl/CCCivQLRX0fXXOT-U1wboeHl2Mc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04153931/040926VER_2036414993_overasselt.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>Overlevenden wachten op hun geliefden terwijl Nepal zijn doden telt</title>
     <link>https://www.nrc.nl/nieuws/2026/09/04/overlevenden-wachten-op-hun-geliefden-terwijl-nepal-zijn-doden-telt-a4935694</link>
     <guid isPermaLink="false">http://www.nrc.nl/4935694</guid>
     <pubDate>Fri, 04 Sep 2026 16:00:00 +0200</pubDate>
     <description>Naarmate de tijd verstrijkt, krijgt angst de overhand bij de naasten van duizenden mensen die vermist zijn na de vloedgolf in Nepal. „Onze familie is in shock. Mijn moeder heeft al dagen niet meer gegeten.”</description>
     <enclosure url="https://images.nrc.nl/_jbuKzghhj6J_A6pH1Rj4oSDKcQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/03134525/040926BUI_2036386311_Sharmila.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Buitenland</category>
   </item>
   <item>
@@ -1418,6 +1627,15 @@
     <category>Buitenland</category>
   </item>
   <item>
+    <title>Nog schuchter lopen de Amerikaanse zeelieden door de Thaise prostitutiestad Pattaya. Een moeder wacht op de kade. ‘Ik zal maar niet zeggen hoe ik me echt voel’</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/04/nog-schuchter-lopen-de-amerikaanse-mariniers-door-de-thaise-prostitutiestad-pattaya-een-moeder-wacht-op-de-kade-ik-zal-maar-niet-zeggen-hoe-ik-me-echt-voel-a4935884</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935884</guid>
+    <pubDate>Fri, 04 Sep 2026 14:47:34 +0200</pubDate>
+    <description>Na maanden in de Straat van Hormuz mochten de zeelieden van de USS Abraham Lincoln eindelijk aanmeren. De VS kozen voor het Thaise stad Pattaya, die bekendstaat als vrijhaven voor prostitutie. De burgemeester van de stad prijst ‘watersport’ aan als middel voor ontspanning.</description>
+    <enclosure url="https://images.nrc.nl/7GIl9NhsZAZ4zcrxhECnx0aDohI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04101112/040926BUI_2036270949_Pattaya6.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>Frankrijk trekt 1 miljard euro uit voor steun aan boeren vanwege extreem weer</title>
     <link>https://www.nrc.nl/nieuws/2026/09/04/frankrijk-trekt-1-miljard-euro-uit-voor-steun-aan-boeren-vanwege-extreem-weer-a4935930</link>
     <guid isPermaLink="false">http://www.nrc.nl/4935930</guid>
@@ -1427,12 +1645,22 @@
     <category>Buitenland</category>
   </item>
   <item>
+    <title>De KNVB gaat voorop in de campagne tegen FIFA-baas Infantino, tot voor kort was de bond juist zo volgzaam. Wat zit er achter deze draai?</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/04/van-diplomatieke-vleierij-tot-frontale-aanval-op-fifa-baas-gianni-infantino-hoe-de-knvb-zo-snel-draaide-a4935561</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935561</guid>
+    <pubDate>Fri, 04 Sep 2026 14:15:02 +0200</pubDate>
+    <description>De tot voor kort zo volgzame Nederlandse voetbalbond werpt zich op als voorvechter van een beweging die moet leiden tot een nieuwe FIFA – zonder voorzitter Gianni Infantino. Wat zit daar precies achter?</description>
+    <enclosure url="https://images.nrc.nl/AmqudfoxniLbtpX-lwL7-6yzjJo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04104859/040926SPO_2036322924_infantino.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>Zo’n 25 jaar schreef Paul Luttikhuis voor NRC over klimaatverandering. Hij werd beschuldigd van 'pure bangmakerij'. Nu maakt hij de balans op</title>
     <link>https://www.nrc.nl/nieuws/2026/09/04/schrijven-over-klimaatverandering-met-een-brok-in-de-keel-a4930354</link>
     <guid isPermaLink="false">http://www.nrc.nl/4930354</guid>
     <pubDate>Fri, 04 Sep 2026 13:26:13 +0200</pubDate>
     <description>Hoe gaat de wereld om met de bedreiging van klimaatverandering? En wat voor keuzes maakt een journalist die erover schrijft? „Ik heb het vak sneller zien veranderen dan het klimaat zelf.”</description>
     <enclosure url="https://images.nrc.nl/qHfANFleZdaaGBOnBKqToLA5r0w=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/wp-content/uploads/2026/09/27163636/header-beeld-still-VERVANG.png" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
     <category>Buitenland</category>
   </item>
   <item>
@@ -1508,6 +1736,51 @@
     <category>Buitenland</category>
   </item>
   <item>
+    <title>Waarom blijft de vermogensbelasting zo’n politiek heikel punt? En nog vier vragen over het uitstel van de nieuwe Box 3-wet</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/02/waarom-blijft-de-vermogensbelasting-zon-politiek-heikel-punt-en-nog-vier-vragen-over-het-uitstel-van-de-nieuwe-box-3-wet-a4935656</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935656</guid>
+    <pubDate>Wed, 02 Sep 2026 19:01:58 +0200</pubDate>
+    <description>Het kabinet wil vakbonden en werkgeversorganisaties om advies vragen over de aanpassingen van de vermogensbelasting, lekte dinsdag uit. „Redelijk bizar”, vindt vakbondsvoorzitter Hans Spekman. De kans is groot dat door het verwachte uitstel het kabinet in 2028 2,4 miljard euro aan inkomsten misloopt.</description>
+    <enclosure url="https://images.nrc.nl/aE-VCxAk5tSEVIAjVhiGYQ4c0ZM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/02164912/020926ECO_2036375468_box.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
+    <title>Is het drugsgeweld in Overasselt ongekend in Nederland? Het illustreert vooral dat de aanvoerroutes van cocaïne zijn veranderd</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/02/het-drugsgeweld-in-overasselt-ongekend-in-nederland-het-illustreert-vooral-dat-aanvoerroutes-van-coke-zijn-veranderd-a4935645</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935645</guid>
+    <pubDate>Wed, 02 Sep 2026 17:06:33 +0200</pubDate>
+    <description>Het begon in 2012 met dodelijke ‘wildwesttaferelen’ in de Amsterdamse Staatsliedenbuurt, daarna waren er een afgehakt hoofd in Amsterdam en reeksen aanslagen, tot in dorpen van het Groene Hart. Uitzonderlijk is Overasselt dus niet. Wel illustreert het recente geweld hoe de Nederlandse onderwereld is veranderd: de aanvoerroutes van cocaïne lopen nu via Spanje.</description>
+    <enclosure url="https://images.nrc.nl/2NrazM9tFC0-iVOP0r8i9Kx2aW8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/02165842/020926BIN_2036376127_4.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
+    <title>In Nederland is er na een concert altijd een staande ovatie. Maar echt. Áltijd. Vindt Nederlands publiek dan echt alles mooi?</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/02/in-nederland-is-er-na-een-concert-altijd-een-staande-ovatie-maar-echt-altijd-vindt-nederlands-publiek-dan-echt-alles-mooi-a4935294</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935294</guid>
+    <pubDate>Wed, 02 Sep 2026 15:13:42 +0200</pubDate>
+    <description>Waar in West-Europa het traditie is om tijdens een ovatie op te staan als je iets echt, écht heel goed vond, vind je in Nederland nauwelijks nog een voorstelling waar het níét gebeurt. „Dat beleefdheidslaagje hebben we niet nodig. Als je het slecht vindt, is het voor een artiest ‘fijn’ om dat te ervaren.”</description>
+    <enclosure url="https://images.nrc.nl/HaAWS80J4Al9a3mahR1iWjLMIyo=/s3/static.nrc.nl/wp-content/uploads/2026/09/01150812/310826CUL_2034975402_WEB_GIF_Klapziekte_Simon-Ruis.gif" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
+    <title>Straks kun je hier niet meer weg, lijken de Russen te zeggen met het bombarderen van bruggen. Het leven verdwijnt langzaam uit de Oekraïense stad Kramatorsk</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/02/het-leven-verdwijnt-uit-de-oekraiense-stad-kramatorsk-de-russen-bombarderen-bruggen-als-waarschuwing-straks-kan-je-niet-meer-weg-a4935257</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935257</guid>
+    <pubDate>Wed, 02 Sep 2026 15:06:01 +0200</pubDate>
+    <description>Moskou past zijn bekende recept van verstikking toe op Kramatorsk, een van de laatste steden in de Donbas die Rusland nog niet in handen heeft. Toenemende aanvallen met glijbommen, drones en dagelijkse Russische infiltratie maken het front instabiel. „We voelen een tekort aan infanterie.”</description>
+    <enclosure url="https://images.nrc.nl/tlQM8BL4DZiDb7VQMBYwqkU14FU=/s3/static.nrc.nl/hpe/7dca2c0-oekraine.gif" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
+    <title>Pak je agenda: dit worden de culturele hoogtepunten in het komende seizoen</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/02/pak-je-agenda-dit-worden-de-culturele-hoogtepunten-in-het-komende-seizoen-a4932265</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4932265</guid>
+    <pubDate>Wed, 02 Sep 2026 15:00:00 +0200</pubDate>
+    <description>Waar kunnen we ons op verheugen in het komende culturele seizoen? De cultuurredactie van NRC gidst je door het aanbod in het najaar van 2026.</description>
+    <enclosure url="https://images.nrc.nl/ipuplrM6mxc5eb_mg8XMcroY8fM=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/wp-content/uploads/2026/09/02115814/260831-CultuurOpKomst-Headerbeeld-Roze-02.png" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>Kajsa Ollongren ging &amp;#8216;met frisse tegenzin&amp;#8217; akkoord met de avondklok</title>
     <link>https://www.nrc.nl/nieuws/2026/09/02/kajsa-ollongren-ging-met-frisse-tegenzin-akkoord-met-de-avondklok-a4935513</link>
     <guid isPermaLink="false">http://www.nrc.nl/4935513</guid>
@@ -1515,6 +1788,24 @@
     <description>Bij alle coronamaatregelen is de schending van de grondrechten „continu meegewogen”. De maatregelen konden „een enorme impact hebben” op die grondrechten.</description>
     <enclosure url="https://images.nrc.nl/HeYZC31HGdNHq-cTqE8d8QhvWoc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/02104142/020926BIN_2036326764_Ollongren02.jpg" length="0" type="image/jpeg"/>
     <category>Binnenland</category>
+  </item>
+  <item>
+    <title>Ze zijn allemaal dol op Trump - hoe verschillend de nieuwe radicaal-rechtse leiders in Latijns-Amerika ook zijn, ze hebben één ding gemeen</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/01/hoe-verschillend-de-nieuwe-radicaal-rechtse-leiders-in-latijns-amerika-ook-zijn-ze-delen-een-ding-hun-bewondering-voor-trump-a4934924</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4934924</guid>
+    <pubDate>Tue, 01 Sep 2026 21:00:00 +0200</pubDate>
+    <description>Verkiezing na verkiezing in Latijns-Amerika wordt gewonnen door populistische radicaal-rechtse politici, die ideologisch gezien dicht bij de Amerikaanse president Trump staan. Of ze echt dikke vrienden worden is de vraag. „Hun nationalistische krijgsmachten voelen er niets voor om door een vreemd land te worden verteld wat ze wel en niet moeten doen.”</description>
+    <enclosure url="https://images.nrc.nl/1JLfFWCD8P9uOeAyefQH0TSdvcs=/s3/static.nrc.nl/hpe/c6f0a21-ezgif.com-resize%2520%252815%2529.gif" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
+    <title>Als de Amerikaanse regering je tot terrorist heeft bestempeld: deze Italiaanse internetprovider kwam vorige week op de sanctielijst</title>
+    <link>https://www.nrc.nl/nieuws/2026/09/01/vs-zetten-italiaanse-internetprovider-op-terrorismelijst-burgerrechtenorganisaties-bezorgd-a4935569</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935569</guid>
+    <pubDate>Tue, 01 Sep 2026 19:55:00 +0200</pubDate>
+    <description>De door burgerrechtenactivisten gerunde internetprovider A/I staat sinds vorige week op de Amerikaanse sanctielijst. Lukt het om in Europa gehoste websites in de lucht te houden als je de Amerikaanse regering tegen je hebt?</description>
+    <enclosure url="https://images.nrc.nl/gACQMRxlTxGpc3lNSMqicIW12nU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/01163800/010926ECO_2036306912_AutisticiIventati.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>‘Hulp van buitenaf moet goed gecoördineerd worden’ zegt Nepalese ngo-directeur. ‘Over een maand gebeurt er iets anders in de wereld, en is iedereen dit weer vergeten’</title>
@@ -1551,6 +1842,15 @@
     <description>Kleding zien op TikTok en die meteen uit China bestellen: vandaag gaat de belichaming van ultrafast fashion naar de beurs.</description>
     <enclosure url="https://images.nrc.nl/ZOVYt7gRsehuoSLpzaacLew_PUc=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2020/11/nrcpodcastfeatured-image1280x768v01vandaag.png" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>Eindelijk heeft de coalitie een begroting – maar dit akkoord is vooral een tussenstation op weg naar lastige onderhandelingen met de oppositie</title>
+    <link>https://www.nrc.nl/nieuws/2026/08/31/eindelijk-heeft-de-verdeelde-coalitie-een-begroting-maar-het-is-vooral-een-tussenstation-op-weg-naar-lastige-onderhandelingen-met-de-oppositie-a4935531</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935531</guid>
+    <pubDate>Mon, 31 Aug 2026 20:15:31 +0200</pubDate>
+    <description>Het goede nieuws: na loodzware onderhandelingen hebben D66 en CDA een akkoord bereikt met de VVD over de begroting voor 2027. Het slechte nieuws: het onderhandelen met de oppositie moet nog beginnen.</description>
+    <enclosure url="https://images.nrc.nl/ArHvJ8K103HColnTYYK5GuKSbVo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/31190626/310826BIN_2036310450_3.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Geert Wilders in de broek van Jan Struijs</title>
@@ -1596,6 +1896,24 @@
     <description>In deze zomerserie vraagt het team van Haagse Zaken aan de redactie: welk cultuurobject heeft jouw politieke bewustzijn gevormd?</description>
     <enclosure url="https://images.nrc.nl/IWDSSJ7_WmMD-DIcH3KIPL42ebo=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2021/03/haagsezakenfeatured.png" length="0" type="image/jpeg"/>
     <category>Den Haag</category>
+  </item>
+  <item>
+    <title>Wordt Trumps enorme staatsschuld nu écht een probleem?</title>
+    <link>https://www.nrc.nl/nieuws/2026/08/28/wordt-trumps-enorme-staatsschuld-nu-echt-een-probleem-a4935059</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935059</guid>
+    <pubDate>Fri, 28 Aug 2026 19:52:00 +0200</pubDate>
+    <description>Kiezers zijn aan de vooravond van de Congresverkiezingen ontevreden over de economie, de prijzen en de rente. Het Witte Huis zet nu een paardenmiddel in.</description>
+    <enclosure url="https://images.nrc.nl/Oe9ZNhXylv72JU66njex7VjwchM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/26160631/280826ECO_2036146670_staatsoblVSBessent02.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
+    <title>‘Geen behandelaar kan jou fixen. Je moet het helend vermogen in jezelf ontdekken’</title>
+    <link>https://www.nrc.nl/nieuws/2026/08/28/ga-met-mentale-problemen-niet-zomaar-naar-de-ggz-adviseert-psychiater-jim-van-os-daar-draait-het-niet-om-jouw-ervaring-a4934867</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4934867</guid>
+    <pubDate>Fri, 28 Aug 2026 17:35:16 +0200</pubDate>
+    <description>In de ggz raak je soms „eerder beschadigd” dan dat je er beter uitkomt, schrijft psychiater Jim van Os in zijn nieuwe boek. „In de westerse wereld willen we dat alles meetbaar en maakbaar is. Maar wij zijn ervarende, spirituele wezens.”</description>
+    <enclosure url="https://images.nrc.nl/LacXy8NgiKQfjTk24sxmc9bgZr4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/29110522/280826WEE_2035382558_1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Ook in Europa worden gadgets steeds vaker wapens</title>
@@ -1688,6 +2006,15 @@
     <category>Buitenland</category>
   </item>
   <item>
+    <title>Jeanine Hennis en Arnon Grunberg: ‘Oorlog is niet alléén maar vreselijk, het heeft ook iets verslavends’</title>
+    <link>https://www.nrc.nl/nieuws/2026/08/28/jeanine-hennis-en-arnon-grunberg-oorlog-is-niet-alleen-maar-vreselijk-het-heeft-ook-iets-verslavends-a4934749</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4934749</guid>
+    <pubDate>Fri, 28 Aug 2026 11:00:00 +0200</pubDate>
+    <description>Jeanine Hennis maakte oorlog mee, Arnon Grunberg zocht de oorlog op. Een gesprek over schuldgevoel, levensgevaar en praten met mensen met bloed aan hun handen. „Het is naïef om van jezelf te denken dat jij aan de goede kant van de geschiedenis staat.”</description>
+    <enclosure url="https://images.nrc.nl/ZXQv8HYapkuOYxZCK8I-woCC3j4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/24091611/280826WEE_2034939909_5.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>We zijn de grip op AI-ontwikkeling kwijtgeraakt</title>
     <link>https://www.nrc.nl/nieuws/2026/08/28/we-zijn-de-grip-op-ai-ontwikkeling-kwijtgeraakt-a4935287</link>
     <guid isPermaLink="false">http://www.nrc.nl/4935287</guid>
@@ -1695,6 +2022,15 @@
     <description>Hoe krijgen we AI-systemen zover om gehoorzaam te zijn? Dat is op dit moment in de AI-geschiedenis misschien wel de belangrijkste vraag. Dat we het antwoord nog altijd niet weten, terwijl de modellen inmiddels zo geavanceerd zijn, baart steeds meer leidende figuren in de techindustrie zorgen.</description>
     <enclosure url="https://images.nrc.nl/6BK2LKPbxvFpISV2LfLU1lIiSJU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/27162728/280826ECO_2036242082_altman-2.jpg" length="0" type="image/jpeg"/>
     <category>Economie</category>
+  </item>
+  <item>
+    <title>‘Als een journalist een medicijn een wondermiddel noemt, dan is het al snel reclame. En dat mag niet’</title>
+    <link>https://www.nrc.nl/nieuws/2026/08/27/als-een-journalist-een-medicijn-een-wondermiddel-noemt-dan-is-het-al-snel-reclame-en-dat-mag-niet-a4935148</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935148</guid>
+    <pubDate>Thu, 27 Aug 2026 19:45:00 +0200</pubDate>
+    <description>De zorginspectie beboet media die over medicijnen hebben geschreven, omdat ze daarmee reclame zouden maken. Raakt dat aan de vrije nieuwsgaring? „Uiteindelijk is het aan de rechter.”</description>
+    <enclosure url="https://images.nrc.nl/Nx2TgHOSwlhSWfXUK2zFLWB-Gfw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/26115645/WET_2036161261_HP.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>De ramp in Nepal en Tibet lijkt de autoriteiten te hebben overvallen. Hadden snellere waarschuwingen slachtoffers kunnen voorkomen?</title>
@@ -1715,6 +2051,15 @@
     <category>Buitenland</category>
   </item>
   <item>
+    <title>Het is nog altijd 2002 op rechts, in de geest van Pim Fortuyn. Er komt weer een nieuwe beweging, nu van Mona Keijzer</title>
+    <link>https://www.nrc.nl/nieuws/2026/08/27/het-is-nog-altijd-2002-op-rechts-in-de-geest-van-pim-fortuyn-er-komt-weer-een-nieuwe-beweging-nu-van-mona-keijzer-a4935289</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935289</guid>
+    <pubDate>Thu, 27 Aug 2026 16:57:45 +0200</pubDate>
+    <description>Mona Keijzer kondigde Project 2029 aan, een mogelijk nieuwe rechtse partij. Maar rechts van de VVD is het druk, en de meeste partijen mislukken. De vier zwaktes van uiterst rechtse partijen.</description>
+    <enclosure url="https://images.nrc.nl/cQUlooM19pAw2Ii34FMABb0lyM4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/27151139/270826DEN_2036238295_mona1.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>Door smeltende gletsjers steeg het water in de Himalaya binnen een half uur maar liefst negen meter. Hoe kon dit gebeuren?</title>
     <link>https://www.nrc.nl/nieuws/2026/08/27/als-de-hangende-gletsjers-van-de-himalaya-instorten-komen-er-golven-van-water-en-puin-naar-beneden-a4935270</link>
     <guid isPermaLink="false">http://www.nrc.nl/4935270</guid>
@@ -1722,6 +2067,15 @@
     <description>De gletsjers op de steile flanken van de Himalaya zijn heel instabiel. Satellietbeeld laat zien dat het afgebroken stuk dat woensdag voor een ramp zorgde „een kilometer breed was, anderhalve kilometer lang en naar schatting tot wel 200 meter dik”.</description>
     <enclosure url="https://images.nrc.nl/0axf05kimXPTSP78--3sf4PE28c=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/27151439/270826WET_2036244365_overicht.jpg" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>Oorlogsmisdadiger Mladic gaf leiding aan de genocide in Srebrenica en was verantwoordelijk voor de dood van duizenden mannen</title>
+    <link>https://www.nrc.nl/nieuws/2026/08/27/mladic-was-een-wandelend-cliche-een-veldheer-die-zijn-zaken-goed-in-de-hand-had-en-bovenal-een-oorlogsmisdadiger-a4914495</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4914495</guid>
+    <pubDate>Thu, 27 Aug 2026 14:48:19 +0200</pubDate>
+    <description>De ‘slager van Bosnië’ was militair in hart en nieren. Ratko Mladic werd in 2017 door het Joegoslaviëtribunaal veroordeeld tot levenslang wegens oorlogsmisdaden, misdaden tegen de menselijkheid en genocide.</description>
+    <enclosure url="https://images.nrc.nl/bv34vh084NALkZVp_C3Rsg-4oUc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/12/05090041/BUI_2025983112_ratko.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Twee nog levende mannen gered uit tunnel in Nepal, waar mogelijk nog meer overlevenden in zitten</title>
@@ -1742,6 +2096,15 @@
     <category>Binnenland</category>
   </item>
   <item>
+    <title>Ze schudde tien jaar geleden het racismedebat in Nederland op met 'Witte onschuld': 'Er zitten zo veel paradoxen in ons zelfbeeld'</title>
+    <link>https://www.nrc.nl/nieuws/2026/08/26/het-verhaal-hoe-uitzonderlijk-vrij-liberaal-en-kleurenblind-we-zijn-moet-ernstig-worden-bevraagd-a4927437</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4927437</guid>
+    <pubDate>Wed, 26 Aug 2026 16:30:00 +0200</pubDate>
+    <description>Gloria Wekker schudde tien jaar geleden het racismedebat in Nederland op met &lt;b&gt;Witte onschuld.&lt;/b&gt; Nu is er &lt;b&gt;The Gloria Wekker Reader&lt;/b&gt;, waarin veertig jaar denkwerk over seksualiteit, racisme en gender is gebundeld ,,Mijn werk geeft mensen een taal om te praten over wat er in Nederland gebeurt.”</description>
+    <enclosure url="https://images.nrc.nl/GWei-0pZsAxEC4g28PgQkVZb-Ro=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/06/09171737/BOE_2033536082_Gloria-Wekker-3.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
+  </item>
+  <item>
     <title>200 euro per gesprek? Een student kan voor de apotheker wel dertien patiënten per dag bellen</title>
     <link>https://www.nrc.nl/nieuws/2026/08/26/200-euro-per-gesprek-een-student-kan-voor-de-apotheker-wel-dertien-patienten-per-dag-bellen-a4933106</link>
     <guid isPermaLink="false">http://www.nrc.nl/4933106</guid>
@@ -1758,6 +2121,15 @@
     <description>De door klimaatverandering aangewakkerde warme en droge zomer, schept de omstandigheden voor zware onweersbuien en tornado’s. Daarvoor waarschuwen experts, nadat maandag 41 mensen gewond raakten bij een tornado in Zuid-Frankrijk.</description>
     <enclosure url="https://images.nrc.nl/mO2x8Zp_rDL8sR6_TPFZlVM-VCc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/25171852/250826VER_2036177527_tornado1.jpg" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+  </item>
+  <item>
+    <title>Huisarts Bernard Leenstra heeft geen tijd om patiënten te behandelen: liever gaat hij de mensheid helpen</title>
+    <link>https://www.nrc.nl/nieuws/2026/08/25/huisarts-bernard-leenstra-stopt-met-individuen-behandelen-liever-gaat-hij-de-mensheid-helpen-a4935043</link>
+    <guid isPermaLink="false">http://www.nrc.nl/4935043</guid>
+    <pubDate>Tue, 25 Aug 2026 17:02:04 +0200</pubDate>
+    <description>Hij is een gezichtsbepalend columnist bij &lt;b&gt;Medisch Contact&lt;/b&gt;, maar huisarts Bernard Leenstra hangt nu z’n stethoscoop aan de wilgen om de gezondheidskloof tussen kansrijken en kansarmen te verkleinen. „Ik zag dag in dag uit dat we in Nederland geen gelijkwaardige kansen hebben.”</description>
+    <enclosure url="https://images.nrc.nl/CC4Tt41IFtqm5_FG9T70ntRDT24=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/25154944/250826BIN_2036025439_huisartsDRAGEND_HP.jpg" length="0" type="image/jpeg"/>
+    <category>Beste van NRC</category>
   </item>
   <item>
     <title>Liang Wenfeng: de techno-optimist met een ‘angstaanjagend vermogen om te leren’</title>
@@ -2127,6 +2499,7 @@
     <description>Voor het eerst in drie jaar zijn honderdduizenden Gazaanse kinderen afgelopen zaterdag weer fysiek naar school gegaan. Dat meldt persbureau Reuters maandag. Naar verwachting kunnen circa 541.000 leerlingen voorlopig weer fysiek lessen volgen, aldus het Palestijnse ministerie van Onderwijs.</description>
     <enclosure url="https://images.nrc.nl/9CvW_FzySFwkjbx89uPBuxd_Ltw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21145831/210926BUI_2036851541_2.jpg" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+    <category>Voorpagina</category>
   </item>
   <item>
     <title>Kortstondige brand bij Tata Steel veroorzaakt grote rookpluim</title>
@@ -2136,15 +2509,17 @@
     <description>De rente in de VS gaat omhoog van 3,75 naar 4 procent. Met die beslissing gaat Kevin Warsh, voorzitter van de Amerikaanse centrale bank, lijnrecht in tegen de wensen van president Trump, minder dan twee maanden voor cruciale Congresverkiezingen.</description>
     <enclosure url="https://images.nrc.nl/-mK9SO3nxGuSAE-BDCuklmLALFw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21170845/210926VER_2036860722_tata.jpg" length="0" type="image/jpeg"/>
     <category>Economie</category>
+    <category>Voorpagina</category>
   </item>
   <item>
-    <title>ICE-agent schiet man neer in Austin, Texas. Burgemeester wil onafhankelijk onderzoek</title>
+    <title>VN: Amerikaanse aanvallen op 'drugsbootjes' mogelijk misdaden tegen menselijkheid</title>
     <link>https://www.nrc.nl/nieuws/2025/09/19/amerikaanse-politiek-19-september-a4906609</link>
     <guid isPermaLink="false">http://www.nrc.nl/4906609</guid>
     <pubDate>Fri, 19 Sep 2025 04:35:50 +0200</pubDate>
     <description>Terwijl het in het internationale AI-debat de afgelopen tijd vooral ging over het afremmen van de ontwikkeling van kunstmatige intelligentie, doet de Amerikaanse president Donald Trump er juist een schepje bovenop in de AI-race. In een bericht op zijn sociale media kondigt hij aan een "AI Force" op te gaan richten.</description>
-    <enclosure url="https://images.nrc.nl/ju8uL27rp8GMcjBuU6KrYt1QZUI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21081724/210926VER_2036831764_austin.jpg" length="0" type="image/jpeg"/>
+    <enclosure url="https://images.nrc.nl/YS02BCCPvwN1wjeQvZnoIzJRzRE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/09/02042212/ANP-559460496-1.jpg" length="0" type="image/jpeg"/>
     <category>Buitenland</category>
+    <category>Voorpagina</category>
   </item>
   <item>
     <title>Grootschalige Oekraïense drone-aanval treft regio Moskou op de laatste dag van parlementsverkiezingen in Rusland</title>
