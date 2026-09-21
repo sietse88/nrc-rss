@@ -18,11 +18,15 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 from xml.sax.saxutils import escape
 
+# (rubriek, url, alleen items met deze <category> of None voor alles)
 FEEDS = [
-    ("Binnenland", "https://www.nrc.nl/index/binnenland/rss/"),
-    ("Buitenland", "https://www.nrc.nl/index/buitenland/rss/"),
-    ("Economie",   "https://www.nrc.nl/index/economie/rss/"),
-    ("Den Haag",   "https://www.nrc.nl/index/den-haag/rss/"),
+    ("Binnenland",    "https://www.nrc.nl/index/binnenland/rss/", None),
+    ("Buitenland",    "https://www.nrc.nl/index/buitenland/rss/", None),
+    ("Economie",      "https://www.nrc.nl/index/economie/rss/", None),
+    ("Den Haag",      "https://www.nrc.nl/index/den-haag/rss/", None),
+    # De hoofdartikelen bovenaan nrc.nl dragen in de voorpaginafeed de categorie "Vandaag".
+    ("Voorpagina",    "https://www.nrc.nl/rss/", "Vandaag"),
+    ("Beste van NRC", "https://www.nrc.nl/index/home/beste-van-nrc/rss/", None),
 ]
 
 USER_AGENT = "nrc-rss/1.0 (github.com/sietse88/nrc-rss)"
@@ -44,7 +48,7 @@ def fetch_feed(url):
         return ET.parse(r).getroot()
 
 
-def parse_items(root, section):
+def parse_items(root, section, only_category=None):
     items = []
     channel = root.find("channel")
     if channel is None:
@@ -52,6 +56,8 @@ def parse_items(root, section):
     for el in channel.findall("item"):
         guid = (el.findtext("guid") or "").strip()
         if not guid:
+            continue
+        if only_category and (el.findtext("category") or "").strip() != only_category:
             continue
 
         enc_el = el.find("enclosure")
@@ -145,8 +151,8 @@ def build_rss(items, now):
         "<channel>\n"
         "  <title>NRC</title>\n"
         "  <link>https://www.nrc.nl/</link>\n"
-        "  <description>NRC — Binnenland, Buitenland, Economie en Den Haag"
-        " in \xe9\xe9n feed, zonder dubbele artikelen.</description>\n"
+        "  <description>NRC — voorpagina, Beste van NRC, Binnenland, Buitenland,"
+        " Economie en Den Haag in \xe9\xe9n feed, zonder dubbele artikelen.</description>\n"
         "  <language>nl-NL</language>\n"
         "  <image>\n"
         f"    <url>{escape(FEED_ICON_URL)}</url>\n"
@@ -168,13 +174,13 @@ def main():
 
     merged = {}
     total = 0
-    for section, url in FEEDS:
+    for section, url, only_category in FEEDS:
         try:
             root = fetch_feed(url)
         except (urllib.error.URLError, ET.ParseError) as e:
             print(f"Feed {section} overgeslagen: {e}", file=sys.stderr)
             continue
-        items = parse_items(root, section)
+        items = parse_items(root, section, only_category)
         total += len(items)
         for it in items:
             guid = it["guid"]
