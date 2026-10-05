@@ -35,6 +35,13 @@ SEEN_FILE = Path("seen.json")
 SEEN_RETENTION_DAYS = 14
 REQUEST_PAUSE = 0.5
 
+# Archief: de feed bevat alle artikelen van de afgelopen FEED_DAYS dagen, niet
+# alleen wat de NRC-feeds nu tonen. Zo haalt de RSS-reader na een pauze van een
+# paar weken alsnog alles op wat er in de tussentijd verscheen. Het archief
+# bewaart per artikel alles wat nodig is om het item op te bouwen.
+ARCHIVE_FILE = Path("archive.json")
+FEED_DAYS = 30
+
 SITE_BASE_URL = "https://sietse88.github.io/nrc-rss"
 FEED_ICON_URL = f"{SITE_BASE_URL}/icon.png"
 
@@ -93,6 +100,22 @@ def load_seen():
 def save_seen(seen):
     SEEN_FILE.write_text(
         json.dumps(seen, indent=2, sort_keys=True, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+
+def load_archive():
+    if not ARCHIVE_FILE.exists():
+        return {}
+    try:
+        return json.loads(ARCHIVE_FILE.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+
+
+def save_archive(archive):
+    ARCHIVE_FILE.write_text(
+        json.dumps(archive, indent=1, sort_keys=True, ensure_ascii=False),
         encoding="utf-8",
     )
 
@@ -169,6 +192,7 @@ def build_rss(items, now):
 def main():
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     seen = load_seen()
+    archive = load_archive()
     now = datetime.now(timezone.utc)
     now_str = format_datetime(now)
 
@@ -195,30 +219,64 @@ def main():
         print("Geen artikelen gevonden.", file=sys.stderr)
         return 1
 
+    # Publicatiedatum blijft die van de eerste keer dat we het artikel zagen:
+    # uit het archief, anders uit seen.json (artikelen van voor het archief),
+    # anders de datum die NRC nu meegeeft.
     for guid, it in merged.items():
-        entry = seen.get(guid)
-        if entry:
-            it["pubDate"] = entry["first"]
-            seen[guid]["last"] = now_str
+        oud = archive.get(guid)
+        if oud:
+            it["pubDate"] = oud["pubDate"]
+            eerst_gezien = oud["seen"]
+        elif guid in seen:
+            it["pubDate"] = seen[guid]["first"]
+            eerst_gezien = now_str
         else:
-            seen[guid] = {"first": it["pubDate"], "last": now_str}
+            eerst_gezien = now_str
 
-    items_list = sorted(
-        merged.values(),
-        key=lambda it: parse_pub_date(it["pubDate"]) or datetime.min.replace(tzinfo=timezone.utc),
-        reverse=True,
-    )
-
-    for it in items_list:
-        it["categories"] = sorted(it["categories"])
+        seen[guid] = {"first": it["pubDate"], "last": now_str}
+        archive[guid] = {
+            "title": it["title"],
+            "link": it["link"],
+            "description": it["description"],
+            "enclosure": it["enclosure"],
+            "categories": sorted(it["categories"]),
+            "pubDate": it["pubDate"],
+            "seen": eerst_gezien,
+            "last": now_str,
+        }
 
     cutoff = now - timedelta(days=SEEN_RETENTION_DAYS)
     seen = {g: v for g, v in seen.items() if is_recent(v["last"], cutoff)}
     save_seen(seen)
 
+    # Artikelen gaan 30 dagen na de eerste keer zien uit het archief. Wat deze
+    # run niet bij de bron stond, blijft dus gewoon in de feed staan.
+    feed_cutoff = now - timedelta(days=FEED_DAYS)
+    archive = {g: v for g, v in archive.items() if is_recent(v["seen"], feed_cutoff)}
+    save_archive(archive)
+
+    items_list = [
+        {
+            "guid": guid,
+            "title": v["title"],
+            "link": v["link"],
+            "description": v["description"],
+            "enclosure": v["enclosure"],
+            "categories": v["categories"],
+            "pubDate": v["pubDate"],
+        }
+        for guid, v in sorted(
+            archive.items(),
+            key=lambda kv: parse_pub_date(kv[1]["pubDate"])
+            or datetime.min.replace(tzinfo=timezone.utc),
+            reverse=True,
+        )
+    ]
+
     OUTPUT.write_text(build_rss(items_list, now), encoding="utf-8")
     dupes = total - len(merged)
-    print(f"Geschreven: {OUTPUT} ({len(merged)} artikelen, {dupes} dubbele verwijderd)")
+    print(f"Geschreven: {OUTPUT} ({len(items_list)} artikelen: {len(merged)} nu bij de "
+          f"bron ({dupes} dubbele verwijderd), de rest uit het archief van {FEED_DAYS} dagen)")
     return 0
 
 
