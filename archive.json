@@ -9,7 +9,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/VwFXbXMKcVhthN3BAyf80kxFmf0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06162829/061026VER_2037255331_1.jpg"
   },
-  "last": "Tue, 06 Oct 2026 21:43:15 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2025/08/19/oekraineblog-19-aug-a4903434",
   "pubDate": "Tue, 19 Aug 2025 14:41:39 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -25,7 +25,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/XWbqDIU_3F5Esc4KElO88CxYTv8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/04101231/041026VER_2037183376_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2025/09/19/amerikaanse-politiek-19-september-a4906609",
   "pubDate": "Fri, 19 Sep 2025 04:35:50 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -33,19 +33,20 @@
  },
  "http://www.nrc.nl/4910786": {
   "categories": [
-   "Economie"
+   "Economie",
+   "Voorpagina"
   ],
   "description": "Veel huishoudens zijn onnodig duur uit, omdat ze een zwaardere aansluiting hebben dan ze nodig hebben. De Autoriteit Consument en Markt meldt dat ruim 300.000 huishoudens en kleine bedrijven daardoor te veel betalen. Een zwaardere aansluiting kost minimaal 1.800 euro per jaar, terwijl een aansluiting van 360 euro per jaar vaak volstaat.",
   "enclosure": {
    "length": "0",
    "type": "image/jpeg",
-   "url": "https://images.nrc.nl/KSFW_a0wxm1k7imPwuw_V5QaNDY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06153626/061026ECO_2037252625_tabaksmarkt.jpg"
+   "url": "https://images.nrc.nl/MGMNI-njBYpB-aZjcPsoU3nxP3w=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/07083309/071026ECO_2037264220_ABNAMRO.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2025/10/26/economieblog-a4910786",
   "pubDate": "Mon, 27 Oct 2025 00:05:00 +0100",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
-  "title": "Minister Hermans wil nieuwe nicotineproducten blokkeren en roept op tot 'bevriezen' Europese markt"
+  "title": "Nederlandse staat verkleint belang in ABN Amro"
  },
  "http://www.nrc.nl/4921056": {
   "categories": [
@@ -57,11 +58,27 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/g-B6Chag8h385zwt-xA7umhQfS4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05163504/051026VER_2037215954_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/02/28/liveblog-iran-a4921056",
   "pubDate": "Sat, 28 Feb 2026 07:58:06 +0100",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
   "title": "Jemenitische regeringstroepen veroveren belangrijke posities bij de zeestraat Bab el-Mandeb op de Houthi’s"
+ },
+ "http://www.nrc.nl/4926032": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "In veel landen woeden er cultuuroorlogen zonder dat we ons daar echt van bewust zijn. In deze rubriek staat elke maand een object centraal dat symbool staat voor de cultuuroorlog in een land. Deze keer: de schnitzel in Oostenrijk.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/PTPSpf5nhSMGKM1EinKLd3R0R8c=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/05/20174546/BUI_2033169820_3.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/06/in-oostenrijk-weten-ze-schnitzels-zijn-net-als-mensen-a4926032",
+  "pubDate": "Tue, 06 Oct 2026 11:00:00 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "In Oostenrijk weten ze: schnitzels zijn net als mensen"
  },
  "http://www.nrc.nl/4926364": {
   "categories": [
@@ -121,7 +138,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/adDDweMq_hchdF7vHyDnAaGik_c=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/e9195f4-Roelants%252C%2520Carolien%25201280%2520x%2520768.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/06/16/nu-oorlog-tussen-israel-en-turkije-a4928972",
   "pubDate": "Tue, 16 Jun 2026 15:08:24 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -137,7 +154,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/82Tk5OhjDvS6Vfwole-R9vdSJVI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/20085443/270726BIN_2034135127_boot1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/07/30/liever-langzaam-via-het-water-dan-over-de-verzakkende-weg-naar-de-winkels-in-de-drukke-binnenstad-van-utrecht-a4929989",
   "pubDate": "Thu, 30 Jul 2026 13:51:27 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -153,7 +170,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/KqT0A_si4P5dSoTad4DNqJZiCEI=/1280x/filters:no_upscale()/s3/static.nrc.nl/images/gn4/data152872527-bddd14.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/04/twee-boekhandels-die-voor-de-oorlog-samen-het-literaire-en-culturele-centrum-van-parijs-vormden-a4930172",
   "pubDate": "Fri, 04 Sep 2026 02:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -169,7 +186,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/HpBBe6qoaryH8EJkJZEq4WrAtbo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/06103820/060826BIN_2034136178_ijbrug1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/06/geen-brug-over-het-ij-dan-maar-de-pont-romantiseren-zo-blijven-elke-dag-70-000-reizigers-afhankelijk-van-een-stedelijke-absurditeit-a4930195",
   "pubDate": "Thu, 06 Aug 2026 14:42:12 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -186,7 +203,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/qHfANFleZdaaGBOnBKqToLA5r0w=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/wp-content/uploads/2026/09/27163636/header-beeld-still-VERVANG.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/04/schrijven-over-klimaatverandering-met-een-brok-in-de-keel-a4930354",
   "pubDate": "Fri, 04 Sep 2026 13:26:13 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -202,7 +219,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/latFPo2JUpspYlk93he_VC-olCo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/23143640/BUI_2033292160_antalya6.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/de-toestroom-van-buitenlanders-veranderde-de-populaire-badplaats-antalya-russen-houden-van-woningen-met-uitzicht-vooral-op-de-bergen-a4930466",
   "pubDate": "Mon, 28 Sep 2026 11:31:40 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -218,7 +235,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Mx_-3d3Agr00e2xWUs9O35e8IHo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/06/23120315/130726BIN_2034131666_-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/07/16/de-renovatie-van-de-papendrechtsebrug-is-nog-maar-het-voorgerecht-in-een-diner-vol-renovaties-a4930826",
   "pubDate": "Thu, 16 Jul 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -234,7 +251,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/adDDweMq_hchdF7vHyDnAaGik_c=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/e9195f4-Roelants%252C%2520Carolien%25201280%2520x%2520768.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/06/30/ik-betoog-dat-iran-de-oorlog-heeft-verloren-a4931401",
   "pubDate": "Tue, 30 Jun 2026 12:45:53 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -266,7 +283,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/EMtm6gqlHZSY2vSP2iW8_J_8Od8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/20084133/220726BIN_2034135582_pont.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/07/23/de-veerpont-over-de-maas-is-een-varend-dorpshuis-veerman-peter-kent-iedereen-en-iedereen-kent-hem-en-het-is-echt-veel-sneller-met-de-pont-a4931912",
   "pubDate": "Thu, 23 Jul 2026 13:48:49 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -282,7 +299,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Ph0ohsMctiDB0AicmATc9xUHMbU=/1280x/filters:no_upscale()/s3/static.nrc.nl/hpe/2c8429a-BOE_2035034118_miranda.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/23/het-neoreactionaire-denken-dat-online-bloeit-is-een-reele-bedreiging-voor-onze-democratie-a4931988",
   "pubDate": "Wed, 23 Sep 2026 14:35:28 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -298,7 +315,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/U2ghe3hr1OoxuNwzL6uL8AztxdY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/11200432/170826BIN_2034135968_bever1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/17/ook-bevers-zijn-een-gevaar-voor-de-dijken-bij-zwolle-stopten-ze-zenders-in-de-staarten-hoor-je-het-piepje-dat-is-bever-7-a4932089",
   "pubDate": "Mon, 17 Aug 2026 11:07:30 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -314,7 +331,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/-XEGjrFunwBLKP9hzGhUfBh9sRk=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/21115332/040926MAG_2034545348_-willem-in-zijn-atelier.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/hoe-willem-de-kooning-een-amerikaanse-schilderheld-werd-a4932169",
   "pubDate": "Thu, 01 Oct 2026 10:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -330,7 +347,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/CVID6CAMIngXQd561i0_cQvCmP8=/s3/static.nrc.nl/hpe/f68deed-Kopie%2520van%2520Copy%2520of%2520Template%2520GIF%2520Homepage.gif"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/22/andre-rieu-is-nederlands-grootste-muziekfenomeen-500-platina-platen-en-met-115-miljoen-verkochte-kaartjes-ergens-tussen-beyonce-en-madonna-a4932237",
   "pubDate": "Tue, 22 Sep 2026 21:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -346,7 +363,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/adDDweMq_hchdF7vHyDnAaGik_c=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/e9195f4-Roelants%252C%2520Carolien%25201280%2520x%2520768.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/07/14/khameneis-begrafenis-kan-niet-tippen-aan-die-van-khomeiny-a4932368",
   "pubDate": "Tue, 14 Jul 2026 15:04:57 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -362,7 +379,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/LG3Ff9IOYlK6e2jtew2qTBe3MaY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/09/25105402/web-HP-Zitting-3_NIEUW_Panorama_advocaat-en-verdachte_Leonieke-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/09/stijn-werd-slapend-en-starnakel-in-zn-auto-aangetroffen-die-stond-stil-maar-hij-hield-wel-de-versnellingspook-vast-a4932708",
   "pubDate": "Sun, 09 Aug 2026 19:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -410,7 +427,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/6-I9A-4V79UXeCTz1PKnZ8rG0iI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/07165959/090926CUL_2035001546_Voorlinden.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/09/van-museum-voorlinden-tot-fenix-en-hartwig-het-privemuseum-of-miljonairsmuseum-is-in-opkomst-wat-verklaart-het-succes-a4932894",
   "pubDate": "Wed, 09 Sep 2026 13:56:17 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -426,7 +443,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/GReBIaBTSQ8SvskD5y7cegAVexs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/27083819/030826BIN_2034135267_brug1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/02/de-brug-bedienen-vanachter-een-scherm-niet-in-groningen-een-auto-heeft-een-rem-een-schip-niet-a4933028",
   "pubDate": "Sun, 02 Aug 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -442,7 +459,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/q0GD4idw50rm3ZSnDbeI0HzFEN4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/24175209/260726ECO_2035429906_apotheek.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/26/200-euro-per-gesprek-een-student-kan-voor-de-apotheker-wel-dertien-patienten-per-dag-bellen-a4933106",
   "pubDate": "Wed, 26 Aug 2026 14:00:36 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -458,7 +475,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/adDDweMq_hchdF7vHyDnAaGik_c=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/e9195f4-Roelants%252C%2520Carolien%25201280%2520x%2520768.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/07/28/trump-maakt-nooit-een-fout-en-wint-altijd-a4933335",
   "pubDate": "Tue, 28 Jul 2026 12:39:35 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -474,7 +491,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/stEZHiFH-_C8sjWKcRPiO_paILU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/05125100/ECO_2035351864_Illu_Lynne-Brouwer_AI_Wengfeng_hp.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/25/liang-wenfeng-de-techno-optimist-met-een-angstaanjagend-vermogen-om-te-leren-a4933608",
   "pubDate": "Tue, 25 Aug 2026 16:24:56 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -490,7 +507,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/4bXLGiSYbK2HaO5UooQx7hOGCmU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/05141946/100826BUI_2033983053_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/27/colombiaanse-huurlingen-zijn-gewild-in-oekraine-ik-smeekte-hem-op-mijn-knieen-om-niet-te-gaan-a4933716",
   "pubDate": "Sun, 27 Sep 2026 14:33:26 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -506,7 +523,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oY0UF0ccQPpvBg3OrwE_XwL2fWs=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/bvhw/wp-content/blogs.dir/114/files/2019/07/gruyter-caroline-de-2019-01-c.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/07/ceuta-en-de-opkomst-van-de-rheocratie-a4933978",
   "pubDate": "Fri, 07 Aug 2026 17:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -538,7 +555,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/FFKnOokBOLfA-bp-O9QSqNC70R8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09130000/100926BOE_2035819347_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/09/onheilspellend-panorama-van-anti-westerse-sentimenten-in-de-wereld-verzandt-in-al-te-veel-simplisme-a4934169",
   "pubDate": "Wed, 09 Sep 2026 14:34:10 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -554,7 +571,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/adDDweMq_hchdF7vHyDnAaGik_c=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/e9195f4-Roelants%252C%2520Carolien%25201280%2520x%2520768.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/11/de-nieuwe-hobby-van-de-saoedische-kroonprins-a4934232",
   "pubDate": "Tue, 11 Aug 2026 12:23:01 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -570,7 +587,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/dMXMEdSz9eA9-WfMlF2iwFH2vUw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30125956/011026BOE_2035710462_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/hoe-nederland-de-moord-op-een-indonesische-vrijheidsstrijder-in-de-doofpot-stopte-a4934269",
   "pubDate": "Thu, 01 Oct 2026 13:18:20 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -586,7 +603,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/LG3Ff9IOYlK6e2jtew2qTBe3MaY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/09/25105402/web-HP-Zitting-3_NIEUW_Panorama_advocaat-en-verdachte_Leonieke-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/16/lucien-b-wil-alleen-maar-gezien-worden-soms-moet-ze-daartoe-iets-in-de-fik-steken-of-een-ruit-inslaan-snap-je-het-niet-rechter-a4934317",
   "pubDate": "Sun, 16 Aug 2026 19:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -618,7 +635,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oY0UF0ccQPpvBg3OrwE_XwL2fWs=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/bvhw/wp-content/blogs.dir/114/files/2019/07/gruyter-caroline-de-2019-01-c.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/14/megabranden-zijn-geen-natuurramp-a4934466",
   "pubDate": "Fri, 14 Aug 2026 10:54:13 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -634,7 +651,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/IWDSSJ7_WmMD-DIcH3KIPL42ebo=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2021/03/haagsezakenfeatured.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/15/haagse-zaken-in-de-zomer-de-onmacht-van-politieke-satire-a4934539",
   "pubDate": "Sat, 15 Aug 2026 05:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -650,7 +667,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/ZjHxXPoMoq5CZJK4_GJD_A-NJ_o=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/02165721/DEN_2034935835_defensie1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/vrijwel-heel-europa-leent-voor-de-defensie-uitgaven-maar-nederland-blijft-bij-het-mantra-van-heinen-elke-euro-betaald-aan-rente-krijg-je-nooit-meer-terug-a4934622",
   "pubDate": "Mon, 05 Oct 2026 19:55:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -667,7 +684,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/nB66vwiX1UHTS-fpm7Rll4srp08=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/24100440/190926WEE_2035547442_Danil1-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/ontsnapt-aan-poetins-gehaktmolen-deze-mannen-deserteerden-uit-het-russische-leger-a4934760",
   "pubDate": "Fri, 02 Oct 2026 10:15:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -683,7 +700,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oY0UF0ccQPpvBg3OrwE_XwL2fWs=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/bvhw/wp-content/blogs.dir/114/files/2019/07/gruyter-caroline-de-2019-01-c.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/21/wat-als-al-deze-crisissen-geen-crisis-zijn-a4934833",
   "pubDate": "Fri, 21 Aug 2026 17:27:59 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -699,7 +716,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/kCndFlB7ZZVdc9siQ1zmeG5C0gQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/20152655/210826ECO_2036040392_boeken-2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/21/nederlandstalige-tweedehands-boeken-zijn-een-goudmijn-voor-ai-bedrijven-dit-is-een-vorm-van-barbarisme-a4934839",
   "pubDate": "Fri, 21 Aug 2026 15:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -715,7 +732,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/zi5DyqQGwinmlbb0YRDErwTRHDE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/09/24165348/web-HP-Zitting-3_NIEUW_Panorama_advocaat-en-verdachte_Leonieke.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/23/het-ministerie-vond-het-wel-welletjes-met-die-adellijke-stichtingen-en-gegoede-burgers-met-hun-historische-aanspraken-op-titels-of-wapens-a4934860",
   "pubDate": "Sun, 23 Aug 2026 19:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -731,7 +748,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/adDDweMq_hchdF7vHyDnAaGik_c=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/e9195f4-Roelants%252C%2520Carolien%25201280%2520x%2520768.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/25/een-beetje-goed-en-veel-slecht-nieuws-over-de-doodstraf-a4934927",
   "pubDate": "Tue, 25 Aug 2026 12:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -747,7 +764,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/IWDSSJ7_WmMD-DIcH3KIPL42ebo=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2021/03/haagsezakenfeatured.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/22/haagse-zaken-in-de-zomer-wat-thatcher-en-den-uyl-ons-kunnen-leren-van-politiek-als-ideeenstrijd-a4934969",
   "pubDate": "Sat, 22 Aug 2026 05:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -763,7 +780,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/vbhAiCz49KtnIDIbT9U-JChzqXc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2024/12/02093035/web-Zitting-2_NIEUW_Panorama_boek_Leonieke.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/30/nadat-hij-een-gat-in-het-vliegtuigplafond-had-geslagen-zwaaide-salim-met-een-scheermes-en-riep-ik-ga-jullie-doodmaken-a4935028",
   "pubDate": "Sun, 30 Aug 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -779,7 +796,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Y38d5ntjtVPkxVKCZBNKA7a4o0A=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/01164746/BUI_2034641146_modderstroomnu.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/29/wederopbouw-en-onvrede-na-de-verwoestende-modderstroom-in-het-indiase-district-wayanad-dit-is-een-gedoemde-plek-geworden-a4935116",
   "pubDate": "Tue, 29 Sep 2026 14:45:35 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -795,7 +812,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/YJoUBowurwA-EtC5f0G4HEkQFkU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09113213/100926OND_2036171217_Houtkorrels-Lynne-Brouwer-HP.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/10/de-verborgen-klimaatschade-achter-duurzame-biomassa-politie-doet-onderzoek-naar-energiegigant-rwe-a4935129",
   "pubDate": "Thu, 10 Sep 2026 06:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -811,7 +828,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/lEaSOf9M4pa3cO6c_sABCIg_RVU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/15165122/170926OND_2034828347_WEB_FI_ILLU_Montage-Rood_Oplichtingssoftware_Leila-Hak.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/18/nep-websites-nep-winst-en-nep-vriendelijkheid-hoe-hans-en-duizenden-anderen-werden-opgelicht-a4935130",
   "pubDate": "Fri, 18 Sep 2026 05:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -827,7 +844,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/3OLyGblXKAtHdtdVnG4R4GZMD_c=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/10105350/web-100926BIN_2036226549_1109CUL-Cover.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/10/hoe-giftig-nationalisme-poetins-wereldbeeld-vertroebelt-a4935213",
   "pubDate": "Thu, 10 Sep 2026 16:10:03 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -843,7 +860,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/wjYpKVczBV4xx7Ui3qeq5YrxgCY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/26191022/260826VER_2036227430_kind2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/26/gezondheidszorg-voor-twintigduizend-asielkinderen-toch-niet-per-oktober-gestaakt-a4935217",
   "pubDate": "Wed, 26 Aug 2026 20:51:25 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -875,7 +892,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oY0UF0ccQPpvBg3OrwE_XwL2fWs=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/bvhw/wp-content/blogs.dir/114/files/2019/07/gruyter-caroline-de-2019-01-c.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/28/ook-in-europa-worden-gadgets-steeds-vaker-wapens-a4935269",
   "pubDate": "Fri, 28 Aug 2026 17:33:17 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -923,7 +940,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/6El25mf8c1F8-Q_R3-w5Hbx50Ts=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/28151341/280826BIN_2036278650_coa1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/28/het-coa-overtreedt-door-grote-druk-op-de-opvang-al-jaren-aanbestedingsregels-a4935366",
   "pubDate": "Fri, 28 Aug 2026 15:41:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -955,7 +972,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/IWDSSJ7_WmMD-DIcH3KIPL42ebo=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2021/03/haagsezakenfeatured.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/29/haagse-zaken-in-de-zomer-all-the-presidents-men-toont-de-hoogtijdagen-en-het-belang-van-journalistiek-a4935403",
   "pubDate": "Sat, 29 Aug 2026 05:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -971,7 +988,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/NJwIODhUmopWytrAM7SCchXUUSg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01122722/021026BIN_2036190956_ford3.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/wil-je-de-legale-markt-voor-cannabis-echt-overlaten-aan-grote-tabaksbedrijven-a4935445",
   "pubDate": "Fri, 02 Oct 2026 17:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -987,7 +1004,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/dMkMBeKjFBQAG06Ge3nsFoXKtts=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09142422/110926ECO_2035955817_Tata.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/twijfel-groeit-is-een-deal-met-tata-steel-over-vergroening-wel-mogelijk-a4935479",
   "pubDate": "Fri, 11 Sep 2026 18:32:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1003,7 +1020,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/s8NN42UiPy6v_viW7mnzoaJ7-P8=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/f330ee3-Rubriek_KoningKijkt_WEB_HP_Duotoon.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/08/31/geert-wilders-in-de-broek-van-jan-struijs-a4935496",
   "pubDate": "Mon, 31 Aug 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1035,7 +1052,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/-fDE0rPv1ohmcsDowfvy5wzn9LI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/31155445/010926WET_2036312982_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/01/el-ninos-worden-sterker-door-klimaatverandering-blijkt-uit-boringen-in-fossiele-koralen-a4935510",
   "pubDate": "Tue, 01 Sep 2026 15:47:15 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1051,7 +1068,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/o9GmRG6INyHfi7PBW-0D9Gngaeg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/08164418/250926CUL_2033944321_GermaineAcogny04.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/op-bezoek-bij-de-grande-dame-van-de-moderne-afrikaanse-dans-als-ze-mij-een-gek-vinden-tant-mieux-a4935516",
   "pubDate": "Fri, 25 Sep 2026 19:43:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1067,7 +1084,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/hgMcTsLF5fd5oOqzh46m6RPfGaY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/01173011/030926BUI_2036308610_2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/06/in-heel-europa-vinden-mysterieuze-aanslagen-plaats-bij-wapenfabrikanten-rusland-is-hoofdverdachte-a4935517",
   "pubDate": "Sun, 06 Sep 2026 18:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1100,7 +1117,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Xk5CopPFltVfoAYj4Nx70lmHKeM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/02125549/020926BUI_2036367020_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/14/na-een-reeks-moorden-op-vrouwen-klinkt-in-kameroen-de-roep-om-een-strengere-wet-nog-harder-de-mentaliteit-is-om-vrouwen-en-meisjes-de-schuld-te-geven-a4935624",
   "pubDate": "Mon, 14 Sep 2026 13:35:48 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1132,7 +1149,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/kJu1ir0G_mxPU7hSal4AWwpB400=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09133721/100926BIN_2035947971_roma1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/09/tentjes-in-bosjes-en-onder-fly-overs-van-het-spoor-een-parallelle-wereld-in-amsterdam-zuidoost-wij-zijn-roma-maar-we-stelen-niet-a4935662",
   "pubDate": "Wed, 09 Sep 2026 21:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1148,7 +1165,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Xq1d6XGMFyFty7zKFdHGlSsE8yY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/02160303/030926BIN_2036391431_coa.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/03/kabinet-wil-asielzoekers-vaker-vastzetten-om-ze-vervolgens-over-te-dragen-naar-het-land-waar-ze-asiel-hebben-aangevraagd-a4935667",
   "pubDate": "Thu, 03 Sep 2026 14:57:50 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1164,7 +1181,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/E1jB2IcjRP8kO-o7Llu38_A18XI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04121037/040926BIN_2035588969_VanWoerkom01.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/06/de-overheid-moet-aandacht-hebben-voor-het-verdriet-van-boeren-zegt-onderzoeker-die-promoveert-op-ecologische-rouw-a4935668",
   "pubDate": "Sun, 06 Sep 2026 13:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1180,7 +1197,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/xmJeCmPRsRuj2dkagshAGxZQ25c=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/18121851/180926OND_2036392683_Niknam.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/18/brutaal-en-nietsontziend-met-pesterijen-probeerde-bunq-topman-ali-niknam-concurrent-ing-af-te-troeven-fuck-you-very-much-a4935677",
   "pubDate": "Fri, 18 Sep 2026 19:55:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1212,7 +1229,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/XjQpbChT5CqEogzInMSJhoCEtMA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04164545/070926BIN_2036348140_2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/08/ministerie-van-justitie-checkt-vooraf-haar-eigen-wetten-vaak-niet-gevolg-onuitvoerbare-regels-en-personeelstekorten-a4935741",
   "pubDate": "Tue, 08 Sep 2026 19:55:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1228,7 +1245,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/0IjCtlKE6f5aLhK_BpBuDcs2d40=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/08102300/080926BIN_2036388870_lezen.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/08/dalende-leesvaardigheid-is-niet-alleen-te-wijten-aan-het-onderwijs-zegt-hoogleraar-maarten-wolbers-de-samenleving-heeft-een-probleem-a4935764",
   "pubDate": "Tue, 08 Sep 2026 10:53:41 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1244,7 +1261,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/eo4hJLAi2Ks8bnVcy_gd2cqpgFs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/03140029/080926DEN_2036420049_begroting.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/26/voor-het-eerst-in-107-jaar-kan-het-parlement-een-begroting-verwerpen-en-dat-heeft-mogelijk-grote-politieke-gevolgen-a4935787",
   "pubDate": "Sat, 26 Sep 2026 22:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1260,7 +1277,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/aGGwP6Bi1-HrNsB_htqXIe2aTPQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/07171347/070926BIN_2036396427_heitink.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/07/regenwater-dat-bij-de-spoedeisende-hulp-naar-binnen-stroomt-en-ambulances-blokkeert-nieuwe-data-laten-zien-hoosbuien-worden-groot-probleem-a4935788",
   "pubDate": "Mon, 07 Sep 2026 19:55:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1276,7 +1293,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/LG3Ff9IOYlK6e2jtew2qTBe3MaY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/09/25105402/web-HP-Zitting-3_NIEUW_Panorama_advocaat-en-verdachte_Leonieke-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/06/vlak-voor-een-trio-beseft-agent-peter-dat-zn-vaste-seksdate-toch-echt-drugs-dealt-heeft-de-diender-ook-informatie-gelekt-aan-de-dealer-a4935799",
   "pubDate": "Sun, 06 Sep 2026 19:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1292,7 +1309,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/JqTgCJyBP7n3pcqA4aOWQGZZx1w=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/14135112/BurnOut_Animatie_header.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/18/waar-komen-al-die-burn-outs-vandaan-het-heet-werk-privebalans-ik-noem-het-werk-privekeuzes-a4935806",
   "pubDate": "Fri, 18 Sep 2026 19:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1308,7 +1325,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/YaJeFpFi9onFC37l6VEdro1kwJo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04090219/040926VER_2036437027_vlaardingen.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/04/politie-treft-in-vrachtwagen-vijftien-verstekelingen-aan-in-veerhaven-vlaardingen-onder-wie-twee-minderjarigen-a4935886",
   "pubDate": "Fri, 04 Sep 2026 09:48:37 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1324,7 +1341,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/hEXixBj6XNs6zpNjnTj9awu3G7U=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/07131144/110926WEE_2034939991_1-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/christiaan-triebert-bekijkt-dag-na-dag-beelden-van-burgerslachtoffers-ik-zet-het-geluid-na-de-eerste-keer-uit-anders-blijft-het-doorklinken-in-mijn-hoofd-a4935889",
   "pubDate": "Fri, 11 Sep 2026 19:54:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1340,7 +1357,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oY0UF0ccQPpvBg3OrwE_XwL2fWs=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/bvhw/wp-content/blogs.dir/114/files/2019/07/gruyter-caroline-de-2019-01-c.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/04/kouwe-drukte-om-ijsland-a4935903",
   "pubDate": "Fri, 04 Sep 2026 15:07:29 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1356,7 +1373,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/788hpA8SSppsWZepFb9oEInP4FI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/04133610/040926VER_2036451482_droogte.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/04/frankrijk-trekt-1-miljard-euro-uit-voor-steun-aan-boeren-vanwege-extreem-weer-a4935930",
   "pubDate": "Fri, 04 Sep 2026 14:40:53 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1372,7 +1389,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/IWDSSJ7_WmMD-DIcH3KIPL42ebo=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2021/03/haagsezakenfeatured.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/05/de-begrotingscrisis-legt-de-verhoudingen-binnen-de-coalitie-bloot-a4935967",
   "pubDate": "Sat, 05 Sep 2026 05:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1388,7 +1405,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/7AkYV3Ha-GpW9aGSHPr-ipparrk=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/05122456/030926BIN_2036396008_lezen-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/06/leesvaardigheid-verbeteren-vergt-een-lange-adem-maar-politiek-ongeduld-groeit-a4935971",
   "pubDate": "Sun, 06 Sep 2026 11:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1404,7 +1421,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/YGw46_TcHGs6BL48hV3v3hnfEKo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09140541/100926BIN_2036333611_geluidsoverlast3.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/s-avonds-verandert-het-centrum-van-rotterdam-in-een-racebaan-dus-opende-de-stad-het-offensief-tegen-luidruchtige-verkeersasos-a4935998",
   "pubDate": "Fri, 11 Sep 2026 06:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1420,7 +1437,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/fw4FBH8x9srXjhVHmzK8zho7LPg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/16132019/250926BIN_2036381749_brand1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/twee-extreem-normale-seizoenen-a4936034",
   "pubDate": "Fri, 25 Sep 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1436,7 +1453,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/sGy4tDt4wPCYb-M622w6jIrPruw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/07104428/070926ECO_2036485702_.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/07/moet-de-rente-verder-omhoog-de-ecb-zoekt-naar-een-antwoord-a4936047",
   "pubDate": "Mon, 07 Sep 2026 10:48:55 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1452,7 +1469,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/-xKjn-FII4nExrLpO14_V55B1Tw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/12153804/140926BUI_2036275888_dragend.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/13/terwijl-hij-zocht-naar-een-geit-vond-herder-lomachar-goud-nu-zijn-er-overal-schachten-gegraven-op-zijn-land-a4936053",
   "pubDate": "Sun, 13 Sep 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1468,7 +1485,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/j1WCSX65puIoLzx56bODJyaRv4s=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09140137/090926BOE_2036476817_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/10/twee-boeken-laten-zien-hoe-leven-op-groenland-altijd-een-kwestie-van-overleven-was-a4936058",
   "pubDate": "Thu, 10 Sep 2026 14:02:08 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1484,11 +1501,27 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/s8NN42UiPy6v_viW7mnzoaJ7-P8=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/f330ee3-Rubriek_KoningKijkt_WEB_HP_Duotoon.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/07/haagse-politici-praten-hun-ruzies-uit-in-het-cafe-van-de-tweede-kamer-a4936068",
   "pubDate": "Mon, 07 Sep 2026 18:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
   "title": "Haagse politici praten hun ruzies uit in het café van de Tweede Kamer"
+ },
+ "http://www.nrc.nl/4936070": {
+  "categories": [
+   "Binnenland"
+  ],
+  "description": "<p>In Drenthe wordt weer olie opgepompt. Het dorp Schoonebeek dankt haar voorspoed aan deze winning, maar niet iedere inwoner is verheugd over de hervatte exploitatie. Zo wordt gevreesd voor vervuiling. „Wat laten wij achter voor onze kleinkinderen?”</p>",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/LM6y4p4ac-34yiRq_AJZ8XtEShs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05151133/061026ECO_2036497619_schoonebeek1.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/07/in-schoonebeek-wint-de-nam-weer-olie-maar-de-ontzorgtafel-ten-spijt-maken-dorpelingen-zich-nog-steeds-zorgen-over-vervuild-afvalwater-a4936070",
+  "pubDate": "Wed, 07 Oct 2026 10:07:24 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "In Schoonebeek wint de NAM weer olie, maar de &#8216;ontzorgtafel&#8217; ten spijt maken dorpelingen zich nog steeds zorgen over vervuild afvalwater"
  },
  "http://www.nrc.nl/4936125": {
   "categories": [
@@ -1500,7 +1533,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/8eo3sUDZJcoZsKBawlDqiiSOJGo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09114328/ECO_2036414392_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/16/de-wonderbaarlijke-waardestijging-van-23-boswoningen-hoe-een-zorginstelling-miljoenen-aan-inkomsten-misliep-a4936125",
   "pubDate": "Wed, 16 Sep 2026 19:49:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1516,7 +1549,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/IYhlYV_R_2--sCekF85DoQ2sOj4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/08111616/080926BUI_2036516111_netanyahu2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/08/wie-heeft-wie-niet-wakker-gemaakt-kritiek-op-netanyahu-omdat-hij-niets-deed-met-waarschuwing-voor-de-aanval-van-hamas-op-7-oktober-2023-a4936158",
   "pubDate": "Tue, 08 Sep 2026 16:00:47 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1532,7 +1565,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/pBTJfyIT92UFO7Ml29gZ7K7Jh1s=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/08142718/080926VER_2036531274_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/09/organisatie-die-tenten-uitdeelde-aan-asielzoekers-vertrekt-uit-ter-apel-we-willen-niet-medeplichtig-zijn-aan-het-systeem-waar-we-tegen-strijden-a4936160",
   "pubDate": "Wed, 09 Sep 2026 12:35:36 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1549,7 +1582,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/DjxXL1tNHYleum27ZdceSP_6Grw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/11131151/110926ECO_2036531717_WEB_HP_ILLU_Bedrijven-controle-kwijt_Lynne-Brouwer.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/de-machtsovername-hoe-ai-agents-samenzweren-tegen-hun-makers-a4936163",
   "pubDate": "Fri, 11 Sep 2026 18:28:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1565,7 +1598,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oMexX72v4w1ktkaxxPCEa5BuSk4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/10163108/100926BIN_2036530985_pisa1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/10/scholen-hebben-het-nu-wel-over-welke-teksten-ze-moeten-lezen-ze-beseffen-dat-kennisrijke-teksten-beter-werken-zeggen-deze-leesonderzoekers-a4936166",
   "pubDate": "Thu, 10 Sep 2026 16:51:04 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1581,7 +1614,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/adDDweMq_hchdF7vHyDnAaGik_c=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/e9195f4-Roelants%252C%2520Carolien%25201280%2520x%2520768.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/09/de-benzine-wordt-weer-duurder-a4936225",
   "pubDate": "Wed, 09 Sep 2026 16:13:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1597,7 +1630,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/ZnvWqJlFOqwx0tYtTJ8HjXi95PY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/08/31174142/040926WET_2035991995_2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/13/onderzoek-naar-de-oceanen-heeft-te-lijden-onder-trump-ze-zijn-zo-dom-a4936229",
   "pubDate": "Sun, 13 Sep 2026 15:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1613,7 +1646,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/TRq9P0cV6yJrUkK3R6m2sPSa_jU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/11132248/110926ECO_2036328511_eco.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/de-paradox-van-de-nederlandse-economie-hoe-kan-de-welvaart-aanhouden-terwijl-de-basis-eronder-in-rap-tempo-afbrokkelt-a4936240",
   "pubDate": "Fri, 11 Sep 2026 16:43:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1629,7 +1662,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/2V3fsiFonAX8LVqEm_FaiKI0QWs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09202159/090926BIN_2036552884_zwolle3.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/10/de-bieb-is-nu-leesplek-studiehonk-en-buurthuis-waar-alles-kan-en-trekt-zo-meer-jongeren-want-rustiger-dan-school-minder-afleiding-dan-thuis-a4936270",
   "pubDate": "Thu, 10 Sep 2026 11:55:01 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1645,7 +1678,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/tjZUq_qB2N8qpSPlGjqQSdq6zio=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/10164309/110926BIN_2036254813_pisa1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/vijftienjarigen-lezen-heus-nog-wel-maar-dan-graag-een-boek-met-een-beetje-actie-zodat-ik-niet-in-slaap-val-a4936272",
   "pubDate": "Fri, 11 Sep 2026 16:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1661,11 +1694,27 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/ro_XWKvKMVvvxjYaM_7Llg1pGas=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/09210321/110926DEN_2036568024_rz2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/hoe-ongehoord-nederland-al-het-krediet-verspeelde-a4936279",
   "pubDate": "Fri, 11 Sep 2026 15:06:26 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
   "title": "Hoe Ongehoord Nederland al het krediet verspeelde"
+ },
+ "http://www.nrc.nl/4936324": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "In een rehabilitatiecentrum in de Servische stad Novi Sad worden gokverslaafden geholpen. In het land gelden regels om jongeren te beschermen tegen gokken, maar die worden amper nageleefd. „Ik droomde dat ik een gokwebsite aan het herladen was.”",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/d7ctGfBT804DQXmIJgOOCMACB18=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25161416/280926BUI_2036560634_gok1.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/06/vanuit-school-direct-oversteken-naar-het-casino-in-servie-zijn-de-gokhallen-ook-voor-jongeren-makkelijk-bereikbaar-a4936324",
+  "pubDate": "Tue, 06 Oct 2026 13:55:54 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Vanuit school direct oversteken naar het casino: in Servië zijn de gokhallen ook voor jongeren makkelijk bereikbaar"
  },
  "http://www.nrc.nl/4936337": {
   "categories": [
@@ -1677,11 +1726,27 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/-VF4xzAh8b0AyNSnSgBrfm7I84g=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/18152232/230926BUI_2036454327_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/deze-manuscripten-vertellen-het-verhaal-van-gaza-palestijnen-proberen-historisch-erfgoed-te-redden-uit-de-verwoesting-in-gaza-stad-a4936337",
   "pubDate": "Wed, 30 Sep 2026 14:23:59 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
   "title": "‘Deze manuscripten vertellen het verhaal van Gaza.’ Palestijnen proberen historisch erfgoed te redden uit de verwoesting in Gaza-Stad"
+ },
+ "http://www.nrc.nl/4936347": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "Binnenkort horen tweeduizend kunstenaars in Ierland of ze drie jaar lang een basisinkomen krijgen, nadat een proef daarmee succesvol was gebleken. Het subsidieprogramma is uniek in de wereld. „Het bracht een bepaalde gemoedstoestand die ik nodig heb om creatief te kunnen zijn.”",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/sCOWdwDgC7ALi-PmFyUuyU4Q2ps=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/23120448/250926BUI_2035881008_Maryamdans1.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/05/in-ierland-ontvangen-kunstenaars-iedere-week-325-euro-no-questions-asked-a4936347",
+  "pubDate": "Mon, 05 Oct 2026 15:23:17 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "In Ierland ontvangen kunstenaars iedere week 325 euro. <b>No questions asked</b>"
  },
  "http://www.nrc.nl/4936384": {
   "categories": [
@@ -1693,7 +1758,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oY0UF0ccQPpvBg3OrwE_XwL2fWs=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/bvhw/wp-content/blogs.dir/114/files/2019/07/gruyter-caroline-de-2019-01-c.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/keep-the-germans-in-a4936384",
   "pubDate": "Fri, 11 Sep 2026 17:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1709,7 +1774,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/vpwL4czSFEQOfjPi7n1i3a7yTi0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/11111655/100926ECO_2036581897_Wero.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/pay-european-zegt-wero-maar-wat-kost-dat-a4936388",
   "pubDate": "Fri, 11 Sep 2026 09:23:53 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1725,7 +1790,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/zi5DyqQGwinmlbb0YRDErwTRHDE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/09/24165348/web-HP-Zitting-3_NIEUW_Panorama_advocaat-en-verdachte_Leonieke.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/13/alleen-al-op-papier-lijkt-moordverdachte-theo-met-zn-verslavingen-agressie-rancune-wapens-en-kinderporno-een-levensgevaarlijke-tijdbom-a4936423",
   "pubDate": "Sun, 13 Sep 2026 19:44:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1741,7 +1806,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/uCbjX659n_8L0mgi77m9MUXY8XA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/11162811/110926BIN_2036631541_asiel.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/11/veel-wensdenken-van-het-kabinet-over-asiel-en-migratie-a4936438",
   "pubDate": "Fri, 11 Sep 2026 18:10:11 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1757,7 +1822,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/W9eN2r8MzLCKGGW9ZsftqPEglkE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/16120606/240926WET_2036396982_1hp.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/24/de-nassaus-runnen-hun-dynastie-al-eeuwen-als-een-familiebedrijf-voor-elke-generatie-is-de-opvolging-een-stresstest-a4936447",
   "pubDate": "Thu, 24 Sep 2026 15:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1789,7 +1854,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/IWDSSJ7_WmMD-DIcH3KIPL42ebo=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2021/03/haagsezakenfeatured.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/12/waar-is-het-klimaat-gebleven-in-de-politiek-a4936485",
   "pubDate": "Sat, 12 Sep 2026 05:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1821,7 +1886,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/7UoRjzEHMgRgEqvE4aaIoXUd1qc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/17125336/170926BOE_2036649592_1-kopie-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/17/tegelijk-met-de-moderne-wereld-ontstond-ook-het-racisme-en-het-verzet-daartegen-a4936522",
   "pubDate": "Thu, 17 Sep 2026 14:00:02 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1837,7 +1902,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/EAf92OWR_t_6mr6IV2FzYknngRY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/14140717/140926DEN_2036649669_heinen.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/14/wat-stond-in-de-begroting-van-eelco-heinen-die-tot-een-kabinetscrisis-leidde-a4936537",
   "pubDate": "Mon, 14 Sep 2026 17:11:37 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1853,7 +1918,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/LqjjEl3BJoPZ3JT5zAovM9AjnJQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/14102451/c58c2557-8d9f-4555-812f-223ea967f5ad.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/14/staat-nederland-aan-de-vooravond-van-een-sterk-staaltje-industriepolitiek-a4936564",
   "pubDate": "Mon, 14 Sep 2026 10:33:37 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1869,7 +1934,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/eG-UM4egEsT7YxfBO_reRhUUzV8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/15162622/150926BIN_2035833483_troonrede1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/15/wat-zei-de-koning-in-de-troonrede-wat-bedoelde-het-kabinet-daarmee-en-welke-passages-vielen-op-a4936574",
   "pubDate": "Tue, 15 Sep 2026 17:05:21 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1885,7 +1950,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/PKNYX5HPhStsCNJCvj9KXyfNgfw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/14213725/140926BIN_2036673402_stilletocht.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/14/de-politie-zag-alfredo-51-ten-onrechte-aan-voor-een-fietsendief-hij-overleed-bij-zijn-arrestatie-a4936597",
   "pubDate": "Mon, 14 Sep 2026 22:25:44 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1901,7 +1966,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/s8NN42UiPy6v_viW7mnzoaJ7-P8=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/f330ee3-Rubriek_KoningKijkt_WEB_HP_Duotoon.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/14/op-prinsjesdag-zijn-er-petitfourtjes-bij-de-pvv-a4936602",
   "pubDate": "Mon, 14 Sep 2026 19:50:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1917,7 +1982,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/aD43f7Hna1VcqxQZqr2Otd2ynYc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/15144513/150926WET_2036657272_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/15/nog-niet-een-orkaan-op-de-atlantische-oceaan-ook-dat-is-el-nino-a4936607",
   "pubDate": "Tue, 15 Sep 2026 15:02:50 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1933,7 +1998,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/pkd5N5ZhLKRNglD-fXR6VdJU_Cg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/16130252/160926BUI_2036279426_ursula1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/16/geen-liefde-maar-harde-machtspolitiek-canada-past-perfect-bij-de-nieuwe-strategie-van-ursula-von-der-leyen-2-a4936610",
   "pubDate": "Wed, 16 Sep 2026 15:41:44 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1949,7 +2014,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/B7YUSRZAnRO2r25Vp5ArGsZhMi0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/18104618/180926ECO_2036690853_-web-thumbnail-uitgelicht.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/18/ai-topmannen-voorspellen-doem-is-ai-echt-een-existentieel-gevaar-a4936648",
   "pubDate": "Fri, 18 Sep 2026 17:41:57 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1965,7 +2030,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/MerGwmrnuAxd_TDpsj6dBq8jvqE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/10100608/140926BIN_2036526973_IND.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/17/immigratiedienst-ind-laat-tweehonderd-medewerkers-met-ai-werken-zonder-dat-te-melden-a4936653",
   "pubDate": "Thu, 17 Sep 2026 15:58:51 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1981,7 +2046,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/RFJxonl66KyZUO7ZQICqYp4amak=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/16094846/160926BUI_2036427175_talarico.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/16/trump-zet-de-democraten-weg-als-gevaarlijke-linkse-gekkies-werkt-dat-in-drie-sleutelstaten-ligt-het-antwoord-a4936726",
   "pubDate": "Wed, 16 Sep 2026 19:50:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -1998,7 +2063,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/htS3Eh6Qp1aVyy5q2V8r040hbpY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/23102437/250926ECO_2036214267_chinashock1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/zo-wordt-europa-overvallen-door-chinas-verdere-opmars-als-industriele-grootmacht-a4936773",
   "pubDate": "Fri, 25 Sep 2026 19:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2030,7 +2095,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Eux9TLO5AIZJIUtS32sV4vk4zIE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/23111548/250926ECO_2036396994_leesvaardigheid06.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/kinderen-kunnen-steeds-slechter-lezen-en-schrijven-wat-betekent-dat-voor-de-arbeidsmarkt-ik-heb-mijn-dromen-niet-nagejaagd-uit-onzekerheid-en-schaamte-a4936803",
   "pubDate": "Fri, 25 Sep 2026 16:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2048,7 +2113,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/VGZ_jlW4jzKw0R_PVO19bQ1IsuA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01155147/021026ECO_2036733350_WEB_HP_ILLU_Baas-internet_sleutels_Leila-Hak.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/hoever-reikt-de-amerikaanse-macht-op-het-internet-kunnen-de-vs-een-landendomein-zoals-nl-zomaar-uitzetten-a4936825",
   "pubDate": "Fri, 02 Oct 2026 16:32:17 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2064,7 +2129,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/kiSNVe1eKfcr-3u_7MzDVmkgrEA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/16224555/160926ECO_2036679888_fed.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/16/met-renteverhoging-rekent-kevin-warsh-definitief-af-met-vragen-over-zijn-onafhankelijkheid-a4936861",
   "pubDate": "Thu, 17 Sep 2026 00:42:12 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2080,7 +2145,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oUFFvCGEH3aUR7HSWUL91wCMcVA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/07/09121644/090726DEN_2035072014_OVkorting.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/17/vergrijzing-bereikt-nieuw-punt-de-groep-werkenden-groeit-niet-meer-aantal-mensen-zonder-werk-wel-a4936880",
   "pubDate": "Thu, 17 Sep 2026 08:02:01 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2096,7 +2161,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/q6-8CAnnE8n3WZXC8518kj17III=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/17123405/170926ECO_2036755155_Spiegelpaleis.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/18/de-mens-in-het-spiegelpaleis-van-ai-a4936883",
   "pubDate": "Fri, 18 Sep 2026 10:00:47 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2128,7 +2193,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/c2xnr-XgSwjSPQTHcSDTKqPD1no=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/14120832/FOT_2036659998_11.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/17/drie-weken-na-de-ramp-is-de-hoop-op-overlevenden-in-de-nepalese-modder-verdwenen-a4936890",
   "pubDate": "Thu, 17 Sep 2026 16:11:13 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2144,7 +2209,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/VqNnR0_TVYnZoeCoN9NTEYUyStA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/16144133/210926WEE_2036379838_illustratie-hp-web-Leila-Hak.jpeg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/23/wat-zijn-de-effecten-van-meditatie-moet-je-er-een-gewoonte-van-maken-en-hoe-dan-experts-geven-antwoord-a4936894",
   "pubDate": "Wed, 23 Sep 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2176,7 +2241,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/994Q4UoWLnLpV1IA8xm0UUhnBuQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/17125203/210926BIN_2036743654_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/20/acceptatie-van-homoseksualiteit-onder-nederlandse-jongens-bijna-gehalveerd-in-vier-jaar-zon-sterke-daling-hadden-we-niet-verwacht-a4936918",
   "pubDate": "Sun, 20 Sep 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2192,7 +2257,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/jnRNSF7QO79R_vAn1X5pE5piw_I=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/24145125/240926OND_2036556295_-digitaal-HP.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/je-telefoon-als-spionage-apparaat-app-voor-ouderlijk-toezicht-gebruikt-voor-stalking-a4936928",
   "pubDate": "Fri, 25 Sep 2026 05:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2208,7 +2273,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/9c4DibQvgs_ArfP6zJOoSzjmO68=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/15121324/170926BIN_2036698879_noodopvang.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/18/maandenlange-zoektocht-defensie-naar-opvanglocatie-levert-nul-plaatsen-op-we-zijn-teleurgesteld-a4936943",
   "pubDate": "Fri, 18 Sep 2026 12:00:38 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2224,7 +2289,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/LG3Ff9IOYlK6e2jtew2qTBe3MaY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/09/25105402/web-HP-Zitting-3_NIEUW_Panorama_advocaat-en-verdachte_Leonieke-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/20/bob-vindt-afwijzingen-en-blauwe-vinkjes-moeilijk-te-verdragen-a4937009",
   "pubDate": "Sun, 20 Sep 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2240,7 +2305,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/NbUwoEqDEoKcPEOJlmgRRd90hq8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/22164220/220926BIN_2036677059_lezen1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/22/ook-kinderboekenschrijvers-zien-de-leeslust-afnemen-hoe-lok-je-het-kind-een-boek-in-tijdens-het-schrijven-voel-ik-die-schermen-trekken-a4937017",
   "pubDate": "Tue, 22 Sep 2026 17:01:04 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2256,7 +2321,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/55s0k86pW6uL-gKAKEqP8G1hYuw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/22103101/260926WEE_2036453178_3.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/je-moet-trots-zijn-als-je-buiten-de-norm-valt-vindt-regisseur-michiel-van-erp-er-zijn-al-te-veel-bange-homos-a4937018",
   "pubDate": "Fri, 25 Sep 2026 14:31:27 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2272,7 +2337,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oY0UF0ccQPpvBg3OrwE_XwL2fWs=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/bvhw/wp-content/blogs.dir/114/files/2019/07/gruyter-caroline-de-2019-01-c.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/18/eindelijk-wat-drama-en-emotie-in-de-europese-politiek-a4937023",
   "pubDate": "Fri, 18 Sep 2026 17:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2288,7 +2353,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Ih_EcZcVU2Xba-E4pE1EJ6_on-U=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/18154544/ECO_2036795717_tata.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/kabinet-stelt-afspraak-met-tata-steel-vijf-maanden-uit-a4937028",
   "pubDate": "Fri, 25 Sep 2026 15:30:56 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2304,7 +2369,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/_Cbs0CDaTuo0ODG4Vc2N-Y8xfBs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/27211335/280926ECO_2036803555_2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/27/een-euro-is-een-euro-is-een-euro-of-toch-niet-nederland-stapt-maar-niet-over-naar-een-modern-begrotingssysteem-tot-frustratie-van-alle-experts-a4937036",
   "pubDate": "Sun, 27 Sep 2026 22:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2336,7 +2401,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/zb-kXrhzDoh8fLUvEAnePaVKy-0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/18152949/49f854a6-fa60-4e3f-a33a-1d8522a2c9a1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/20/leven-we-aan-de-rand-van-collapse-a4937054",
   "pubDate": "Sun, 20 Sep 2026 09:23:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2352,7 +2417,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/IWDSSJ7_WmMD-DIcH3KIPL42ebo=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2021/03/haagsezakenfeatured.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/19/de-eerste-algemene-politieke-beschouwingen-van-het-minderheidskabinet-jetten-a4937080",
   "pubDate": "Sat, 19 Sep 2026 05:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2368,7 +2433,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/PpllT1t3dK2pPuhxadOIcXW91Mw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25103846/270926BUI_2036682381_2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/27/wegwezen-schreeuwden-ze-tegen-me-hoe-burundese-straatverkopers-in-kenia-opeens-doelwit-werden-van-haat-en-geweld-a4937147",
   "pubDate": "Sun, 27 Sep 2026 14:12:31 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2384,7 +2449,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/MzMLAtKaMEScnrkzVOjVG6xH2qU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/22132940/240926BOE_2036836891_2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/23/elke-ramp-geldt-als-teken-dat-de-verlossing-nabij-is-naomi-klein-en-astra-taylor-schetsen-een-inktzwart-beeld-over-de-eindtijdfascist-a4937153",
   "pubDate": "Wed, 23 Sep 2026 12:58:02 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2400,7 +2465,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/s6Eu7ZEAF-DgIqnFsNyZdobeF64=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/23122412/240926BUI_2035795049_-arbeidmigranten.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/de-paradox-van-italie-meloni-wil-migratie-indammen-maar-zonder-arbeidsmigranten-is-er-geen-oogst-a4937161",
   "pubDate": "Mon, 28 Sep 2026 13:50:18 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2416,7 +2481,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/esTM6yZmZ6nSmBaOeST8K2i_4MQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21122249/210926BIN_2036844496_opvang.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/21/onveilige-opvang-in-hallen-en-hotels-door-het-coa-blijft-de-structurele-problemen-van-asielopvang-verbloemen-a4937184",
   "pubDate": "Mon, 21 Sep 2026 18:46:40 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2433,7 +2498,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/G7BnOS4_bikWriIo1tBh59U4pkI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/21124219/210926BIN_2036843743_lhbtq.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/21/online-desinformatie-versterkt-de-dalende-acceptatie-van-homoseksualiteit-leerlingen-praten-over-lettersoep-en-genderdoctrines-a4937196",
   "pubDate": "Mon, 21 Sep 2026 19:55:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2449,7 +2514,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/s8NN42UiPy6v_viW7mnzoaJ7-P8=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/f330ee3-Rubriek_KoningKijkt_WEB_HP_Duotoon.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/21/na-een-grapje-ligt-markuszower-er-ineens-uit-op-het-schoolplein-van-de-tweede-kamer-a4937205",
   "pubDate": "Mon, 21 Sep 2026 19:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2465,7 +2530,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/adDDweMq_hchdF7vHyDnAaGik_c=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/e9195f4-Roelants%252C%2520Carolien%25201280%2520x%2520768.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/22/waarom-niemand-wil-helpen-in-jemen-a4937245",
   "pubDate": "Tue, 22 Sep 2026 16:36:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2481,7 +2546,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/pGGb4Z8Fo5IRuEg9VtB6vMBduZA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/22130834/240926BOE_2036274425_.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/24/de-liefde-kan-veel-maar-ook-weer-niet-alles-a4937253",
   "pubDate": "Thu, 24 Sep 2026 10:37:34 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2497,7 +2562,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/n9GBtSY2N6EttPRCnnRR6Tiu-4U=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/22121309/250926ECO_2036875228_spitsuur.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/ik-had-nooit-gedacht-dat-ik-weer-zou-kunnen-werken-ik-ben-begonnen-aan-een-nieuw-hoofdstuk-in-mijn-leven-a4937257",
   "pubDate": "Fri, 25 Sep 2026 15:25:34 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2513,7 +2578,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oY0UF0ccQPpvBg3OrwE_XwL2fWs=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/bvhw/wp-content/blogs.dir/114/files/2019/07/gruyter-caroline-de-2019-01-c.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/de-samengeknepen-billenpolitiek-van-het-midden-a4937261",
   "pubDate": "Fri, 25 Sep 2026 17:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2529,7 +2594,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/EZySpY3oC1PoHS-KeayZmDzcxyI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/03/03143139/Stellinga_Mensen-Maatschappij_WEB_ILLU_Zo-simpel-is-het-niet_Leonieke-Fontijn.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/een-polderdeal-moet-ook-over-gepensioneerden-gaan-a4937262",
   "pubDate": "Fri, 25 Sep 2026 18:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2545,7 +2610,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/k6_-YLq8PheecopxMrQyslnp6OM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28162901/031026WEE_2036554245_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/borsten-waar-je-een-toilettas-onder-kunt-klemmen-ik-maak-leed-lachbaar-a4937264",
   "pubDate": "Fri, 02 Oct 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2561,7 +2626,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/sHPk6QGO9tuD7-_81RvPa6WtQ7Q=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/22123539/220926BUI_2036877853_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/22/eu-landen-bereiken-op-het-nippertje-akkoord-over-verlenging-van-sancties-tegen-rusland-maar-twee-oligarchen-worden-van-de-lijst-gehaald-a4937276",
   "pubDate": "Tue, 22 Sep 2026 18:40:12 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2578,7 +2643,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/EEgMk06unM6XGvDJE5UTA9WUNZ0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/22192240/220926BUI_2036853101_hybrideoorlog01.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/22/polen-ligt-in-de-frontlinie-van-ruslands-hybride-oorlogvoering-hoe-ver-durft-moskou-te-gaan-op-eu-grondgebied-a4937281",
   "pubDate": "Tue, 22 Sep 2026 19:58:42 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2594,7 +2659,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/gNGLwbhA9jOiy286qdQhxY600pg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/22141741/230926CUL_2036591839_3.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/23/de-zeeuwse-herrieschoppers-van-het-gloeiendhete-punkbandje-grote-geelstaart-willen-niet-zinken-maar-ook-geen-hits-schrijven-a4937286",
   "pubDate": "Wed, 23 Sep 2026 16:42:56 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2626,7 +2691,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/2SYrIEnSMY_aLzS_mCLyoM2qVM0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30143702/300926WEE_2036859985_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/windsor-en-detroit-hadden-altijd-een-hechte-band-maar-sinds-trump-willen-canadezen-niet-meer-de-rivier-oversteken-a4937328",
   "pubDate": "Wed, 30 Sep 2026 15:25:42 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2707,7 +2772,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/7SwAsaD8rsfFWpiTALcn6DToBYs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/23154800/230926ECO_2036875693_Huawei01.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/23/met-opgevouwen-chips-leidt-huawei-de-ai-race-in-china-a4937353",
   "pubDate": "Wed, 23 Sep 2026 22:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2723,7 +2788,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/yWQrUYH3EscfAcGSIF5tJkazn_g=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/23115221/230926BUI_2036909537_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/23/oekraine-is-bereid-om-aanvallen-op-russische-oliesector-te-staken-als-rusland-stopt-met-aanvallen-op-oekraiense-energiecentrales-a4937355",
   "pubDate": "Wed, 23 Sep 2026 11:54:50 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2739,7 +2804,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/i2qcDBqDM0_aAJP0MgR8MNWQdx0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/24115009/240926BUI_2036853336_icc.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/24/eu-heeft-opties-om-het-internationaal-strafhof-te-beschermen-tegen-meer-sancties-van-de-vs-is-ze-bereid-die-in-te-zetten-a4937358",
   "pubDate": "Thu, 24 Sep 2026 14:16:48 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2755,7 +2820,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/S8KxLOUtZU7aDTyKxN9j4kETdHs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/23123640/230926ECO_2036911997_Oeso01.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/23/oeso-groei-economie-eu-legt-het-ruim-af-tegen-amerikaanse-economische-groei-a4937364",
   "pubDate": "Wed, 23 Sep 2026 12:43:34 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2787,7 +2852,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/MOB8KgvKAmQNrzld6y2AwQhEQ9k=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25131912/250926DEN_2036913736_jettenun2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/bij-de-verenigde-naties-in-new-york-liet-premier-jetten-niets-merken-van-de-politieke-crisis-in-den-haag-a4937394",
   "pubDate": "Fri, 25 Sep 2026 22:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2804,7 +2869,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/qfAz7HH9UH_YoJ-HvMdxrkijrJw=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/9622f8f-Zo%2520simpel%2520is%2520het%2520niet_Nieuwsbrief_16x9.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/24/de-wereld-leeft-op-de-pof-hoe-gevaarlijk-is-dat-een-les-in-obligatiemarkten-2-a4937432",
   "pubDate": "Thu, 24 Sep 2026 05:05:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2836,7 +2901,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/cgQz1VXokvkihq1ZBzR_u44shdY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/24084418/240926ECO_2036933656_APBweb.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/24/pensioenfonds-abp-gaat-een-miljard-euro-investeren-in-snelgroeiende-europese-bedrijven-a4937435",
   "pubDate": "Thu, 24 Sep 2026 08:51:58 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2853,7 +2918,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/w4M9UF6X9nOKitsGaJYG6-Kg_Z0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25092127/280926BUI_2036282254_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/hardgekookte-eieren-pochetten-en-saunazweet-een-maand-borrelen-met-de-lobbyisten-in-brussel-a4937448",
   "pubDate": "Thu, 01 Oct 2026 13:08:18 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2885,7 +2950,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/QFvRDzpWwuwAxA5PTbT1s-6PuL0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01140359/021026ECO_2036946253_Arcadis.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/tot-haar-verrassing-werd-heather-polinsky-topvrouw-van-arcadis-al-snel-kreeg-ze-te-maken-met-een-dreigende-overname-a4937470",
   "pubDate": "Fri, 02 Oct 2026 18:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2901,7 +2966,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/vyJY0If7jZapB5tOQ_1JIO4jsv0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/24145415/250926BUI_2036950336_commu.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/27/in-hun-woordenstrijd-met-japan-grijpen-china-en-rusland-terug-op-de-tweede-wereldoorlog-a4937471",
   "pubDate": "Sun, 27 Sep 2026 13:31:57 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2933,7 +2998,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/eJl5IeYBLpUXUqB8pBRQYvbno0M=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/24141236/240926ECO_2036936929_Amodei-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/anthropics-eigen-laboratorium-meldt-eerste-wetenschappelijke-ontdekking-hype-of-hoopvol-a4937475",
   "pubDate": "Fri, 25 Sep 2026 10:08:55 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2949,7 +3014,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/LG3Ff9IOYlK6e2jtew2qTBe3MaY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/09/25105402/web-HP-Zitting-3_NIEUW_Panorama_advocaat-en-verdachte_Leonieke-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/ali-pleegde-twee-winkeldiefstallen-maar-wil-zn-leven-beteren-het-ging-niet-bewust-ik-deed-alles-onder-invloed-van-drugs-a4937483",
   "pubDate": "Mon, 28 Sep 2026 19:55:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2965,7 +3030,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/NEcPHxV5OyNNW7zrBVH9MdLAYBU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25194542/250926DEN_2036929705_WTC.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/zuidas-meets-delft-zegt-minister-van-financien-eelco-heinen-vvd-over-de-nieuwe-investeringsinstelling-a4937486",
   "pubDate": "Fri, 25 Sep 2026 19:54:40 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2981,7 +3046,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/6BD8_UOczy2qB9someD6YlwCrr8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/24115839/240926WEE_2036935189_tigray.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/24/dit-is-een-oorlog-die-iedereen-zag-aankomen-strijd-in-tigray-dreigt-te-escaleren-tot-breder-regionaal-conflict-a4937488",
   "pubDate": "Thu, 24 Sep 2026 18:59:40 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -2997,7 +3062,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/HlXfBnusZ5v2Ex1jDFYo8xs2Mp0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/29165451/290926BUI_2036950058_profiel.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/29/zonder-de-machtige-steenkoolmagnaat-haji-isam-was-prabowo-nu-misschien-geen-president-van-indonesie-a4937492",
   "pubDate": "Tue, 29 Sep 2026 19:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3013,7 +3078,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/ZOVYt7gRsehuoSLpzaacLew_PUc=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2020/11/nrcpodcastfeatured-image1280x768v01vandaag.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/hoe-de-houthis-de-wereldeconomie-in-hun-greep-houden-a4937525",
   "pubDate": "Fri, 25 Sep 2026 05:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3029,7 +3094,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/_qTSjqFC-56j02rBm4R_C2LAx1I=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25095023/250926ECO_2036967473_bijVK.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/eu-waarschuwt-verenigd-koninkrijk-verhoog-importheffingen-op-producten-uit-china-a4937530",
   "pubDate": "Fri, 25 Sep 2026 09:58:21 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3045,7 +3110,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/xsOMD_rkxj3D9Yg0RgEa02XDrzk=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25095627/250926ECO_2036970459_oracle.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/moet-oracle-investeerders-betalen-als-er-geen-stroom-blijkt-te-zijn-voor-zijn-datacenters-a4937537",
   "pubDate": "Fri, 25 Sep 2026 12:10:01 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3078,7 +3143,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/T1VhAzsHgVn0t7XL48jv6ayhtdY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28104956/280926CUL_2036811752_portret.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/naza-maakt-israel-razend-oorlogsmisdaden-zijn-lastig-te-ontkennen-als-je-eigen-mensen-erover-vertellen-a4937551",
   "pubDate": "Mon, 28 Sep 2026 20:06:55 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3094,7 +3159,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/FNQt-yXMkmPCCKQdUuaRuMdPkvc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25124442/280926WEE_2036944698_mor2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/ondanks-de-onrust-in-marokko-zit-de-koning-stevig-in-het-zadel-er-is-geen-geloofwaardig-alternatief-a4937557",
   "pubDate": "Thu, 01 Oct 2026 15:42:02 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3110,7 +3175,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/lpsHydPV3vBHxFFIGC_mCinfCpw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25120830/250926VER_2036975919_hyves.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/gezellig-weer-online-met-hyves-is-het-ook-echt-anders-dan-de-meta-platforms-a4937563",
   "pubDate": "Fri, 25 Sep 2026 17:55:10 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3126,7 +3191,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Ghmn107mt19XTjGj288KIWnnkY8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25161446/250926DEN_2036984957_pro-jong.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/politiek-uitslag-referendum-pro-in-brussel-a4937570",
   "pubDate": "Fri, 25 Sep 2026 16:56:31 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3142,7 +3207,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/GXkPAZ-W5BzNeyxLhXiXW6O20Ps=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25155150/250926VER_2036988018_2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/kabinet-laat-onderzoek-doen-naar-misstanden-bij-zaaddonaties-a4937571",
   "pubDate": "Fri, 25 Sep 2026 17:16:35 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3158,7 +3223,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/mx6A0Wjj1tvfwC86UdScxcYRT7Y=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/25173246/250926BUI_2036989120_Methaan.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/25/hete-zomer-of-niet-nu-de-brandstofprijzen-stijgen-moet-het-klimaat-even-wachten-a4937574",
   "pubDate": "Fri, 25 Sep 2026 16:28:44 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3174,7 +3239,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/IWDSSJ7_WmMD-DIcH3KIPL42ebo=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2021/03/haagsezakenfeatured.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/26/wie-box-3-wil-snappen-moet-meer-van-politiek-dan-van-belastingen-weten-a4937596",
   "pubDate": "Sat, 26 Sep 2026 05:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3191,7 +3256,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/1dnJf-njRPgOZp-ftNxmNIjII3k=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/26102736/260926BUI_2036995890_.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/26/door-een-maandenlange-russische-blokkade-zijn-de-inwoners-van-het-bezette-oekraiense-stadje-olesjky-gedwongen-op-grassoep-en-honden-a4937597",
   "pubDate": "Sat, 26 Sep 2026 14:51:55 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3207,7 +3272,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/CbV2t0AbA1-XziYUA_eK91P9QFs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/26154216/260926VER_2036998248_.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/26/ja21-en-sgp-kritisch-na-gesprek-met-jetten-en-heinen-volgens-de-premier-zijn-alle-vijf-de-oppositiepartijen-enthousiast-a4937602",
   "pubDate": "Sat, 26 Sep 2026 17:40:13 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3223,7 +3288,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/wKOUeNRG_lq6LvphwzNeVjv874s=/1280x/filters:no_upscale()/s3/static.nrc.nl/hpe/ef7ba69-fbd3c43-admin-ajax.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/26/china-respecteert-trumps-voorkeur-voor-de-term-superintelligentie-in-plaats-van-ai-a4937606",
   "pubDate": "Sat, 26 Sep 2026 18:33:41 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3239,7 +3304,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/ZOVYt7gRsehuoSLpzaacLew_PUc=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2020/11/nrcpodcastfeatured-image1280x768v01vandaag.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/27/de-eerste-zomer-in-boedapest-na-orban-luisterverhaal-op-zondag-a4937623",
   "pubDate": "Sun, 27 Sep 2026 05:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3255,7 +3320,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/LG3Ff9IOYlK6e2jtew2qTBe3MaY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/09/25105402/web-HP-Zitting-3_NIEUW_Panorama_advocaat-en-verdachte_Leonieke-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/04/de-rapper-maakte-een-ai-videoclip-waarin-hitler-en-auschwitz-de-revue-passeren-maar-de-uitspraak-op-gas-zijn-dat-is-straattaal-voor-op-dreef-a4937669",
   "pubDate": "Sun, 04 Oct 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3271,7 +3336,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Zg6gBDnIedPw0vX9pMA4D5-xj9A=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28145534/280926BUI_2036928519_10.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/polen-leren-schuilen-voor-russische-drones-maar-maken-ook-ruzie-over-de-beste-manier-als-het-wel-oorlog-was-zou-het-makkelijker-zijn-a4937670",
   "pubDate": "Mon, 28 Sep 2026 19:05:32 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3287,7 +3352,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/ZTYsbjhyIJeMRtB9OMQnKFcBFgw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28091553/92e6786a-128e-4aa6-bf84-ed4b13e4f532.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/riemen-vast-de-o-komt-weer-in-de-maand-a4937674",
   "pubDate": "Mon, 28 Sep 2026 09:20:36 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3303,7 +3368,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/kM3Aot8P5UxT6_GGiQQO3DdE12A=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28100558/011026ECO_2037012855_Lynne-Brouwer-thumb.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/hij-mocht-best-een-wheelie-maken-met-de-nieuwe-rolstoel-a4937677",
   "pubDate": "Thu, 01 Oct 2026 10:01:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3319,7 +3384,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/ijBnvN-XpAgme7lxcKXjqJNRLz4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28150347/300926ECO_2036926757_AI6.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/ai-en-horeca-gaat-dat-samen-gastcontact-is-belangrijk-maar-we-willen-het-werk-ook-versimpelen-a4937679",
   "pubDate": "Fri, 02 Oct 2026 14:59:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3351,7 +3416,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/NOS8Uv316axZBW32g_FxHZWX8Hg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01122920/021026WEE_2037012890_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/04/op-de-vlucht-voor-de-stijgende-zeespiegel-in-fiji-worden-honderden-dorpen-verplaatst-naar-hoger-gelegen-gebied-a4937685",
   "pubDate": "Sun, 04 Oct 2026 19:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3367,7 +3432,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/uw7G5sJvLcY5S93euUsnYqTZl18=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28095413/280926BUI_2037014761_ramallah02.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/waarom-kan-israel-beslissen-over-de-status-van-nederlandse-diplomaten-in-palestijns-gebied-a4937688",
   "pubDate": "Mon, 28 Sep 2026 16:20:27 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3383,7 +3448,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/3H5tz3bugpyah-GPj1Koes_ZFcw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28110642/280926ECO_2037020473_fuel01.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/in-italie-begrenzen-oliebedrijven-eni-en-ip-vrijwillig-de-brandstofprijzen-a4937689",
   "pubDate": "Mon, 28 Sep 2026 19:18:03 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3399,7 +3464,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/YgWLSL5NBab3I3ZbG45dViOcd-g=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/27123605/280926ECO_2036873463_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/kijk-naar-welke-voedselproductie-in-een-gebied-wel-werkt-in-plaats-van-vast-te-houden-aan-zoveel-mogelijk-a4937696",
   "pubDate": "Tue, 06 Oct 2026 14:38:13 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
@@ -3415,7 +3480,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/J63tP4Q4RN3qVLznB4t1QUuz8tc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28151211/031026SPO_2037018608_hockeymannenDrieluik03.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/de-nederlandse-hockeymannen-en-de-nasleep-van-het-wk-over-de-bodycheck-van-duco-telgenkamp-is-het-laatste-woord-nog-niet-gezegd-a4937712",
   "pubDate": "Fri, 02 Oct 2026 17:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3431,7 +3496,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/qd5B9OPEdfCKy46cfJ4Pg0d1jYE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30111653/300926BIN_2036916747_scalda3.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/het-aantal-jongeren-in-zeeland-daalt-hard-en-dat-merkt-het-mbo-na-vijftien-jaar-kaasschaafmethode-hebben-we-echt-pijn-a4937729",
   "pubDate": "Wed, 30 Sep 2026 15:23:33 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3447,7 +3512,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/s8NN42UiPy6v_viW7mnzoaJ7-P8=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/f330ee3-Rubriek_KoningKijkt_WEB_HP_Duotoon.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/wie-wil-de-vieze-zakdoek-van-wopke-hoekstra-niet-zijn-woordvoerder-a4937739",
   "pubDate": "Mon, 28 Sep 2026 16:52:37 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3463,7 +3528,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/etTTb3dCji-5uePsUT2j82oEveA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28160138/280926DEN_2037036352_begroting1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/deal-met-oppositie-lijkt-dichterbij-met-schrappen-bezuinigingen-en-voorstel-box-3-wil-het-kabinet-links-en-rechts-tevreden-stellen-a4937741",
   "pubDate": "Mon, 28 Sep 2026 19:14:12 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3479,7 +3544,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/n4TQYny2dtEJqctA6Tha_xFUfTs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28192709/280926VER_2037044002_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/28/politie-arresteert-24-jarige-amsterdammer-in-onderzoek-naar-hackerscollectief-shinyhunters-a4937751",
   "pubDate": "Mon, 28 Sep 2026 20:49:15 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3495,7 +3560,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Rcu2Mb-nrzadm2HSxd6L1sFwtZ0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/29120845/290926WEE_2036981257_icc.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/29/roep-om-nucleaire-optie-inzake-het-internationaal-strafhof-zwelt-aan-in-brussel-a4937755",
   "pubDate": "Tue, 29 Sep 2026 12:12:15 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3511,7 +3576,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/PoS8yAtCN6485LSDusuzB2uLMGQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01144251/051026ECO_2036214416_Chinaschok.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/03/nederlandse-industrie-ergert-zich-aan-dumping-en-misleiding-door-chinese-concurrenten-en-vreest-voor-sluiting-meer-fabrieken-a4937783",
   "pubDate": "Sat, 03 Oct 2026 15:52:57 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3527,7 +3592,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/bLnnfYvVb9yVfHPsZUVun0rZhss=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/29160617/290926BUI_2037019490_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/29/de-geplande-amerikaanse-terugtrekking-uit-irak-komt-op-een-gevoelig-moment-nu-iran-overal-in-het-midden-oosten-de-vs-weet-te-raken-a4937800",
   "pubDate": "Tue, 29 Sep 2026 16:57:04 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3543,7 +3608,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/0txFjosfKqkRz7JiL_izjF85WG4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/29142425/290926BUI_2037056133_Trump.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/29/trump-keert-terug-naar-zijn-aloude-metier-bouwer-a4937804",
   "pubDate": "Tue, 29 Sep 2026 15:39:33 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3559,7 +3624,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/bwCnONeYeh00PM5j4FSt_8wVHj4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/29155154/290926ECO_2037062893_Arcadis.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/29/arcadis-schrapt-nog-eens-duizend-banen-bij-herziening-strategie-en-trekt-zich-terug-uit-china-a4937807",
   "pubDate": "Tue, 29 Sep 2026 18:24:10 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3575,7 +3640,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/CufDUylR_tdFb_3Sx-G1K0Vmp6E=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/29134100/290926VER_2037052352_maastricht.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/29/na-een-tweet-van-het-cidi-over-zijn-instagram-post-over-7-oktober-werd-een-palestijnse-student-geschorst-wat-is-er-gebeurd-a4937812",
   "pubDate": "Tue, 29 Sep 2026 18:16:08 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3591,7 +3656,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/kHpQG_v1m6_Uh4upQgnonqGCINQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30162336/021026ECO_2037067277_Spitsuur.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/er-staat-nergens-dat-je-niet-voor-natuur-bent-als-je-bij-de-bbb-zit-a4937814",
   "pubDate": "Fri, 02 Oct 2026 17:38:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3607,7 +3672,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/etdYqyQ4i0U1ALFCxbTVF6PdPCg=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/ea4c1fa-11252025_Wereldzaken_Artikel-%2520en%2520itemafbeelding_1280x768px.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/waarom-haat-trump-het-internationaal-strafhof-a4937854",
   "pubDate": "Wed, 30 Sep 2026 05:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3623,7 +3688,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/8IN5ebgmaWcoAcFCflJNSqNCo0w=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30080957/300926ECO_2037081821_datacenter.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/amerikaanse-ai-reuzen-doen-beloftes-om-impact-datacenters-op-lokale-gemeenschappen-in-vs-te-verkleinen-a4937857",
   "pubDate": "Wed, 30 Sep 2026 08:12:36 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3639,7 +3704,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/SVXCzvZPs_4Vq-q-pTAg53zs0ok=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30112717/300926BUI_2037052315_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/een-reeks-moorden-vestigt-de-aandacht-op-de-hardnekkige-femicidecrisis-in-zuid-afrika-als-de-opgekropte-woede-van-mannen-eruit-komt-zijn-wij-vrouwen-de-klos-a4937858",
   "pubDate": "Wed, 30 Sep 2026 16:15:40 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3671,7 +3736,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/CkYq3oV0o70xGbrWB04bd5H3zPM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/06/17115911/Mooi-Werk-Ben-Tiggelaar-2025-09-1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/vijf-manieren-waarop-je-werk-zinvol-kan-voelen-a4937867",
   "pubDate": "Wed, 30 Sep 2026 13:28:35 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3687,7 +3752,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Wg414vAylHWDKU2UTiayChNnW3U=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30150211/011026BIN_2037092500_gevang2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/een-cipier-is-altijd-alert-ook-buiten-de-muren-van-de-gevangenis-ik-word-er-doodvermoeid-van-a4937875",
   "pubDate": "Thu, 01 Oct 2026 16:25:59 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3719,7 +3784,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/yPhvFj-LudK2V0JeYp-4NPHCysw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30150024/300926OND_2036906433_schuiling.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/om-ziet-genoeg-bewijs-voor-schennispleging-door-oud-burgemeester-schuiling-en-eist-opnieuw-een-geldboete-a4937909",
   "pubDate": "Wed, 30 Sep 2026 18:58:13 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3735,7 +3800,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/O1TFS7cFPh656tFSuojB8FOUzDU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30155535/300926VER_2037106780_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/om-gaat-zwaardere-straffen-eisen-bij-geweld-tegen-hulpverleners-a4937914",
   "pubDate": "Wed, 30 Sep 2026 17:36:47 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3751,7 +3816,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Td75g1HJ4EIXZwLMpwaXmMA4AL8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30161237/300926BUI_2037101126_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/de-ene-piloot-stak-de-andere-neer-had-hij-een-terroristisch-motief-of-wilde-hij-de-passagiers-meeslepen-in-een-zelfgekozen-dood-a4937917",
   "pubDate": "Wed, 30 Sep 2026 19:12:43 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3767,7 +3832,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/MSeMCTEyU_rKtDAIcZOaLAGdpo8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/28092054/011026DEN_2036913172_zzp.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/wie-is-volgens-de-nieuwe-zelfstandigentoets-een-echte-zzper-en-wie-niet-a4937918",
   "pubDate": "Thu, 01 Oct 2026 07:44:09 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3783,7 +3848,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/BrmFEqNpfTiGaiH0RDm9DWL_GLs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/30191229/300926BIN_2037097511_debat7.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/09/30/onvrede-bij-links-en-rechts-over-dekking-van-geschrapte-bezuinigingen-en-vermogenswinstbelasting-a4937924",
   "pubDate": "Wed, 30 Sep 2026 19:25:25 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3799,7 +3864,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Ps5WqMDVT_EBlfjgXuzfbZqJXjQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2025/12/12221205/151225ECO_2026988092_Woningbouw.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/cao-lonen-stegen-verder-vooral-in-de-bouwsector-a4937941",
   "pubDate": "Thu, 01 Oct 2026 08:04:03 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3831,7 +3896,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/U0d5tbV5G_c68JCyL5dIBY-YCIA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01141532/021026BUI_2037100560_Mike.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/nu-trump-bij-de-stembus-eerder-een-last-dan-een-zegen-lijkt-nemen-meer-republikeinen-afstand-van-hem-a4937943",
   "pubDate": "Thu, 01 Oct 2026 22:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3847,7 +3912,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/qfAz7HH9UH_YoJ-HvMdxrkijrJw=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/9622f8f-Zo%2520simpel%2520is%2520het%2520niet_Nieuwsbrief_16x9.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/worden-de-waardes-van-ai-bedrijven-kunstmatig-opgeblazen-a4937957",
   "pubDate": "Thu, 01 Oct 2026 05:05:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3863,7 +3928,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/Ar9fNQRNHk5wdmJgEF6RhnYjzLY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01085350/011026VER_2037118828_Morteratsch.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/een-vijfde-van-de-zwitserse-gletsjers-smelt-in-vijf-jaar-tijd-gletsjers-hebben-geen-kans-van-overleven-in-huidige-omstandigheden-a4937960",
   "pubDate": "Thu, 01 Oct 2026 10:47:32 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3895,7 +3960,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/JB-nZZQv2z9qzfRO8EeQ-8KtnzU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01132402/011026BIN_2037095490_brugklas2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/inspectie-middelbare-scholen-moeten-rekening-houden-met-kennisniveau-van-nieuwe-leerlingen-a4937972",
   "pubDate": "Thu, 01 Oct 2026 19:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3927,7 +3992,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/FckysW-GZ2vBK-JZcfVZndhifOM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01125523/011026ECO_2037132772_diesel.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/trumps-plan-voor-een-exportverbod-op-amerikaanse-diesel-hangt-nog-steeds-boven-de-markt-a4937979",
   "pubDate": "Thu, 01 Oct 2026 13:59:04 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3935,7 +4000,7 @@
  },
  "http://www.nrc.nl/4937982": {
   "categories": [
-   "Voorpagina"
+   "Buitenland"
   ],
   "description": "De heropleving van de burgeroorlog in Ethiopië gaat over de macht in Addis Abeba, maar kan de hele regio meesleuren. „Als deze conflicten via bondgenootschappen aan elkaar groeien, kan een geweldszone van de Sahel tot Jemen ontstaan”, zegt analist Ngala Chome.",
   "enclosure": {
@@ -3943,7 +4008,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/RpMlipxsGykCXQrYW7YS3Cs6at8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01154132/021026BUI_2037135764_1.jpg"
   },
-  "last": "Mon, 05 Oct 2026 22:44:22 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/als-ethiopie-afglijdt-naar-een-volledige-oorlog-blijft-geen-land-in-de-regio-ongemoeid-a4937982",
   "pubDate": "Mon, 05 Oct 2026 14:40:45 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3959,7 +4024,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/MmyouzHud71DPZ4rZtciVqotoFw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02151438/021026DEN_2037136267_tfp1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/03/christelijke-mannen-op-kruistocht-tegen-abortus-worden-vooral-overstemd-door-tegenprotest-a4937984",
   "pubDate": "Sat, 03 Oct 2026 15:21:13 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -3991,7 +4056,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/uyE8kUUDmyTGfUVp_weMCuplC_8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01134929/021026WET_2037052069_2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/hittestress-een-warme-zee-en-laagwater-in-rivieren-dit-was-de-warmste-west-europese-zomer-ooit-a4937988",
   "pubDate": "Fri, 02 Oct 2026 04:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4023,7 +4088,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/OBWwYjA_1y7G_lDlBq7WjPFxFKo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/03104157/021026BIN_2036414783_.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/03/vooral-willem-i-en-zijn-kleinzoon-hendrik-maakten-de-oranjes-rijk-met-uitbuiting-in-indie-vier-conclusies-uit-het-onderzoek-a4937991",
   "pubDate": "Sat, 03 Oct 2026 11:36:35 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4055,7 +4120,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/w2odz1QhZ1LQfIBdLHJmSsUOjg0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01185957/011026MID_2037142624_paulien10.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/zeven-keer-paulien-cornelisse-op-haar-scherpst-wat-mensen-anders-maakt-dan-dieren-is-dat-ze-elkaar-willen-verbeteren-a4938000",
   "pubDate": "Thu, 01 Oct 2026 19:30:24 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4071,7 +4136,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/50EC710t4C77UxoDf7Y4OEt8IYA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01161400/d80ef608-667a-4c19-8cb6-476d3fdd766f.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/leven-in-een-wereld-zonder-frictie-wie-heeft-er-eigenlijk-om-die-beloofde-techutopie-gevraagd-a4938001",
   "pubDate": "Fri, 02 Oct 2026 07:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4087,11 +4152,27 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oY0UF0ccQPpvBg3OrwE_XwL2fWs=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/bvhw/wp-content/blogs.dir/114/files/2019/07/gruyter-caroline-de-2019-01-c.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/met-cruciale-verkiezingen-op-komst-overheerst-kortebaandemocratie-a4938003",
   "pubDate": "Fri, 02 Oct 2026 19:45:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
   "title": "Met cruciale verkiezingen op komst overheerst kortebaandemocratie"
+ },
+ "http://www.nrc.nl/4938004": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "De Chinese modefotograaf Hailun Ma is een van de opkomende talenten van haar land. Voor de foto’s in <b>Hometown</b>, haar eerste grote solo buiten China, keerde ze terug naar haar geboorteregio Xinjiang. Had het Amsterdamse fotomuseum Foam niet meer context moeten bieden?",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/BIMKulltU9GjFIf5ak0DlkMOIc0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/09/18092914/280926CUL_2036502677_ma.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/05/foam-toont-het-werk-van-de-chinese-rijzende-ster-hailun-ma-a4938004",
+  "pubDate": "Mon, 05 Oct 2026 14:29:23 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Foam toont de prachtige foto’s van de Chinese rijzende ster Hailun Ma – maar waar kijken we precies naar?"
  },
  "http://www.nrc.nl/4938010": {
   "categories": [
@@ -4103,7 +4184,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/YyNSKdLECISCrmLEdbQUAQ8TyBI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/01111748/011026BIN_2037127949_.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/01/naarmate-het-debat-vordert-wordt-minister-heinen-steeds-kribbiger-hier-maak-ik-echt-bezwaar-tegen-a4938010",
   "pubDate": "Thu, 01 Oct 2026 19:34:28 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4119,7 +4200,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/ZOVYt7gRsehuoSLpzaacLew_PUc=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2020/11/nrcpodcastfeatured-image1280x768v01vandaag.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/kiest-het-grootste-land-van-zuid-amerika-ook-voor-radicaal-rechts-a4938039",
   "pubDate": "Fri, 02 Oct 2026 05:00:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4151,7 +4232,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/7etzFg5jXmEhbd0l_amZAV7xzUA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02085548/021026ECO_2037153293_diesel.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/vs-zetten-europa-onder-druk-om-dieselreserves-vrij-te-geven-europese-landen-zijn-in-overleg-a4938042",
   "pubDate": "Fri, 02 Oct 2026 15:26:54 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4167,7 +4248,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/FXWzUehc3VckPQCLFOUSebcmGMQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05111413/071026VER_2037155699_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/07/aantal-diagnoses-huidkanker-stijgt-komende-twintig-jaar-met-bijna-zestig-procent-schat-integraal-kankercentrum-niet-alleen-door-vergrijzing-a4938052",
   "pubDate": "Wed, 07 Oct 2026 03:02:00 +0200",
   "seen": "Wed, 07 Oct 2026 01:38:20 +0000",
@@ -4183,7 +4264,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/7vGv8KOn0ccZmMqIFaVzkTzlhsM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02135248/Stellinga_Algemeen-Maatschappij_WEB_ILLU_Zo-simpel-is-het-niet_Leonieke-Fontijn.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/wooncrisis-kabinetten-willen-bepalen-zonder-te-betalen-maar-zo-werkt-het-niet-a4938062",
   "pubDate": "Fri, 02 Oct 2026 16:21:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4199,7 +4280,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/iAMEevOa7Ls5rDYJo3BOt7HmT78=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02173645/021026VER_2037160708_ankeiler.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/03/wat-vertellen-de-videos-aan-boord-van-flydubai-vlucht-1073-a4938068",
   "pubDate": "Sat, 03 Oct 2026 10:49:30 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4215,7 +4296,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/oF8cwyUIMlgbksprxgOlw0jgG-Y=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02081159/031026BIN_2037152136_parkeren.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/04/de-vraag-is-niet-wilt-u-betaald-parkeren-de-vraag-is-wat-vindt-u-de-belangrijkste-doelen-van-een-straat-a4938074",
   "pubDate": "Sun, 04 Oct 2026 19:50:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4231,7 +4312,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/8PC3jXg6PKdKJVsIwW32C07VwqE=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02125241/021026VER_2037164251_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/justitie-ziet-geen-reden-voor-strafrechtelijk-onderzoek-naar-palestijnse-student-in-maastricht-a4938078",
   "pubDate": "Fri, 02 Oct 2026 15:48:09 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4247,7 +4328,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/gNnCipPXW6oYQAg-tEwLm60fnqs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02160255/021026BUI_2037160624_ZK.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/bondgenoot-zuid-korea-is-woedend-op-zelensky-a4938079",
   "pubDate": "Fri, 02 Oct 2026 16:29:57 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4311,11 +4392,27 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/U3h0TGmbAixDaJfXE96ujpvZJdo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02163048/021026BUI_2037154721_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/02/terwijl-moskou-en-kyiv-hun-luchtoorlog-escaleren-leveren-vrachtdrones-kamikazerobots-af-voor-een-succesvol-oekraiens-offensief-in-de-donbas-a4938096",
   "pubDate": "Fri, 02 Oct 2026 16:47:58 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
   "title": "Terwijl Moskou en Kyiv hun luchtoorlog opschalen leveren vrachtdrones kamikazerobots af voor een succesvol Oekraïens offensief in de Donbas"
+ },
+ "http://www.nrc.nl/4938097": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "Voor wie zich door de VS geroepen voelt verzet aan te jagen tegen de Europese koers, bracht het Amerikaanse subsidieportal grants.gov deze zomer veel mogelijkheden. Daar zoomen we deze week op in, inclusief gevraagde lettertypes voor de aanvragen.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/WFCuO24oVD0vSRLeMNguahHZSCY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02143643/021026BUI_2037168449_europa.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/02/hoe-gaat-het-eigenlijk-met-de-amerikaanse-strijd-tegen-europas-verval-a4938097",
+  "pubDate": "Fri, 02 Oct 2026 15:53:17 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Hoe gaat het eigenlijk met de Amerikaanse strijd tegen Europa’s verval?"
  },
  "http://www.nrc.nl/4938108": {
   "categories": [
@@ -4359,7 +4456,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/IWDSSJ7_WmMD-DIcH3KIPL42ebo=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2021/03/haagsezakenfeatured.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/03/hoe-de-gevaarlijke-buitenwereld-doorsijpelt-in-den-haag-a4938121",
   "pubDate": "Sat, 03 Oct 2026 05:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4391,7 +4488,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/0_EAQ7aLCD3JH6nPp9hTooSRbN8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/04092027/041026VER_2037182557_studieschuld.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/totale-berg-studieschulden-voor-het-eerst-gekrompen-gemiddelde-studieschuld-blijft-toenemen-nu-18-000-euro-per-student-a4938150",
   "pubDate": "Mon, 05 Oct 2026 06:30:00 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4407,7 +4504,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/JUUtaQ_Ez1Xo3RdHT5p4SsgxCcg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/04091435/041026VER_2037182641_clayton.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/04/veel-amerikanen-maken-zich-zorgen-over-ai-maar-de-nieuwe-ai-tsaar-van-trump-moet-toch-vooral-bedrijven-vooruit-helpen-a4938151",
   "pubDate": "Sun, 04 Oct 2026 17:02:16 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4415,7 +4512,7 @@
  },
  "http://www.nrc.nl/4938160": {
   "categories": [
-   "Voorpagina"
+   "Buitenland"
   ],
   "description": "Kiezers in de overwegend Franstalige provincie hebben de separatistische Parti Québécois gekozen om een nieuwe regering te vormen. De partij belooft opnieuw een referendum over afscheiding van Canada – zij het pas wanneer president Trump weg is. Hun zege vormt een uitdaging voor premier Carney.",
   "enclosure": {
@@ -4423,7 +4520,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/4ZRh9TKTPM6fVbrF6KXHY0eR2kU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/04110110/061026BUI_2037172103_1.jpg"
   },
-  "last": "Tue, 06 Oct 2026 10:30:34 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/verkiezingszege-van-separatisten-in-quebec-bemoeilijkt-missie-van-carney-tegen-trump-a4938160",
   "pubDate": "Tue, 06 Oct 2026 05:58:13 +0200",
   "seen": "Tue, 06 Oct 2026 10:30:34 +0000",
@@ -4471,7 +4568,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/-N_MDnSO_9EACOaEv575FCe4Zjs=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/02091343/051026ECO_2037087343_schade.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/nepal-el-nino-wie-gaat-de-klimaatrekening-betalen-a4938197",
   "pubDate": "Mon, 05 Oct 2026 08:42:01 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4495,7 +4592,7 @@
  },
  "http://www.nrc.nl/4938203": {
   "categories": [
-   "Voorpagina"
+   "Buitenland"
   ],
   "description": "De spraakmakende heropening van een zaak rond beschuldigingen van groepsverkrachting op de campus van Cornell University, die aanvankelijk niet strafrechtelijk werd vervolgd, heeft een virale campagne losgemaakt op sociale media. „We zijn niet boos genoeg.”",
   "enclosure": {
@@ -4503,7 +4600,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/-r8ojMBsST18sPtVvmNK9Osa3Bg=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05164101/051026VER_2037197256_cornellJandeDoeDRAGEND.jpg"
   },
-  "last": "Tue, 06 Oct 2026 10:30:34 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/na-heropening-van-verkrachtingszaak-op-universiteit-staat-achter-jane-doe-een-digitaal-leger-van-amerikaanse-vrouwen-klaar-a4938203",
   "pubDate": "Mon, 05 Oct 2026 19:57:09 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4511,7 +4608,7 @@
  },
  "http://www.nrc.nl/4938205": {
   "categories": [
-   "Voorpagina"
+   "Buitenland"
   ],
   "description": "De Spaanse autoriteiten verhogen de druk op de overgebleven migranten in Ceuta, onder meer door de ontruiming van een tentenkamp. Met kleine handeltjes en door klussen aan te nemen, proberen de migranten te overleven. „Ze zeggen dat er geen plek voor ons is in Europa.”",
   "enclosure": {
@@ -4519,7 +4616,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/-90c5CQk24dFDYVgM5N1Kvi_aYc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05142536/051026BUI_2037157142_3.jpg"
   },
-  "last": "Tue, 06 Oct 2026 10:30:34 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/nasreddine-woont-al-twee-maanden-op-het-strand-in-ceuta-het-leven-is-hier-zwaar-maar-ik-wil-echt-niet-terug-naar-marokko-a4938205",
   "pubDate": "Mon, 05 Oct 2026 19:55:00 +0200",
   "seen": "Tue, 06 Oct 2026 03:06:14 +0000",
@@ -4535,7 +4632,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/WAIxyGUL6MDHE6qp2Fc8GRVBqRI=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05142408/051026VER_2037199859_michelin2.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/de-librije-in-zwolle-blijft-het-enige-driesterrenrestaurant-van-nederland-a4938206",
   "pubDate": "Mon, 05 Oct 2026 14:15:10 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4551,7 +4648,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/eEs5Ya4V4-qCTkfxz5GTnqAoiYU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05104602/051026ECO_2037201565_bril.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/noorwegen-voert-tijdelijk-verbod-in-op-ai-brillen-in-publieke-ruimte-a4938211",
   "pubDate": "Mon, 05 Oct 2026 11:19:58 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4567,7 +4664,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/DYgSNxp4bmrpTx0KGhpaHfKoWwM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05111140/051026VER_2037203163_telefoon.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/kabinet-presenteert-strategie-om-kinderen-online-te-beschermen-onder-meer-door-het-weren-van-telefoons-op-scholen-a4938215",
   "pubDate": "Mon, 05 Oct 2026 12:40:06 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4591,19 +4688,20 @@
  },
  "http://www.nrc.nl/4938220": {
   "categories": [
-   "Economie"
+   "Economie",
+   "Voorpagina"
   ],
-  "description": "<p>Scholen klaagden er al jaren over en nu heeft de ACM geconstateerd: de markt voor lesmateriaal functioneert niet goed. Een aantal grote uitgeverijen bepaalt de prijzen en dwingt verkoop af van zowel papieren- als online-lespakketten.</p>",
+  "description": "Scholen klaagden er al jaren over en nu heeft de ACM geconstateerd: de markt voor lesmateriaal functioneert niet goed. Een aantal grote uitgeverijen bepaalt de prijzen en dwingt verkoop af van zowel papieren- als online-lespakketten.",
   "enclosure": {
    "length": "0",
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/ZjqG19t8A_AXyiPbGy3U1s1te24=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06130802/061026ECO_2037207176_eduuitgeverijen.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/drie-partijen-beheersen-de-schoolboekenmarkt-maar-scholen-blijven-trouw-overstappen-van-methode-heeft-grote-gevolgen-a4938220",
   "pubDate": "Tue, 06 Oct 2026 17:08:32 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
-  "title": "Drie partijen beheersen de schoolboekenmarkt, maar scholen blijven trouw: &#8216;Overstappen van methode heeft grote gevolgen&#8217;"
+  "title": "Drie uitgevers domineren de schoolboekenmarkt: als een school een andere lesmethode wil, zijn de kosten hoog"
  },
  "http://www.nrc.nl/4938223": {
   "categories": [
@@ -4631,7 +4729,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/adDDweMq_hchdF7vHyDnAaGik_c=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/e9195f4-Roelants%252C%2520Carolien%25201280%2520x%2520768.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/het-is-kinderboekenweek-maar-niet-in-oorlogsgebied-a4938229",
   "pubDate": "Tue, 06 Oct 2026 15:55:00 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
@@ -4647,7 +4745,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/jgGwNpwQhtpu798iQ_zGrtWG55g=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05180728/051026BIN_2037203472_babyhuisDragend.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/hoe-maak-je-als-minister-vrienden-in-de-oppositie-met-de-sgp-in-de-keuken-gaan-staan-van-het-babyhuis-a4938236",
   "pubDate": "Mon, 05 Oct 2026 19:18:02 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4663,7 +4761,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/6ug1x9hi3IntqI9vfd0ZUa-9vIc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05142349/051026BIN_2037173779_uitspraak.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/veroordeling-hoofdpersoon-documentaire-verstoten-vaders-laat-zien-hoe-complex-het-is-om-intieme-terreur-aan-te-pakken-a4938237",
   "pubDate": "Mon, 05 Oct 2026 18:20:47 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4679,7 +4777,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/I5QJTa3GT6QT4-j2JeiXkRXoVSw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05150421/051026BIN_2036912201_leer1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/voor-het-eerst-in-elf-jaar-weer-met-de-trein-vanuit-groningen-naar-duitsland-het-is-duurzamer-en-minder-vermoeiend-dan-vliegen-a4938238",
   "pubDate": "Mon, 05 Oct 2026 17:00:07 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4711,7 +4809,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/s8NN42UiPy6v_viW7mnzoaJ7-P8=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/f330ee3-Rubriek_KoningKijkt_WEB_HP_Duotoon.png"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/in-de-schaduw-van-jesse-klaver-a4938242",
   "pubDate": "Mon, 05 Oct 2026 14:39:27 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4727,7 +4825,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/R0EvhCdXg9YAbrfsHl84saPoRFU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06092337/061026BIN_2037159293_klimaat4.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/we-vrezen-de-russen-maar-klimaatverandering-is-nederland-al-lang-binnengedrongen-zeggen-vijftig-onderzoekers-in-een-nieuw-rapport-a4938254",
   "pubDate": "Tue, 06 Oct 2026 11:30:00 +0200",
   "seen": "Tue, 06 Oct 2026 10:30:34 +0000",
@@ -4744,7 +4842,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/6bW-qNZNXmSaVFUNHKK4Rwm2OCc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06152511/061026BIN_2036588018_beelen.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/het-rotterdamse-raadslid-noemt-de-quote500-ondernemer-een-spijkerharde-speculant-die-daagt-hem-voor-de-rechter-a4938255",
   "pubDate": "Tue, 06 Oct 2026 20:26:06 +0200",
   "seen": "Tue, 06 Oct 2026 21:43:15 +0000",
@@ -4760,7 +4858,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/4kiPKHNihlxfFkXgByIKttoIg5Y=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05164808/051026ECO_2037222048_netcongest.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/wachtrijen-voor-stroomaansluiting-groeien-eindelijk-minder-hard-maar-de-opluchting-is-tijdelijk-a4938260",
   "pubDate": "Mon, 05 Oct 2026 19:53:44 +0200",
   "seen": "Mon, 05 Oct 2026 22:44:22 +0000",
@@ -4776,11 +4874,27 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/KexEZuv_BW3wHLrZCYnDNPI7Z5Q=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05121032/051026VER_2037207370_hapoel.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/05/alkmaarse-gemeenteraad-kritisch-op-burgemeester-om-weren-fans-israelische-club-hapoel-beer-sheva-a4938274",
   "pubDate": "Tue, 06 Oct 2026 00:49:49 +0200",
   "seen": "Tue, 06 Oct 2026 03:06:14 +0000",
   "title": "Kritiek in Alkmaarse gemeenteraad op draai burgemeester rond weren Hapoel-fans na aandringen Amsterdam"
+ },
+ "http://www.nrc.nl/4938293": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "Het Engelse voetbal is in de ban van een groot schandaal. Manchester City, rijk geworden dankzij een suikeroom uit de Verenigde Arabische Emiraten, heeft de financiële regels…",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/ZOVYt7gRsehuoSLpzaacLew_PUc=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2020/11/nrcpodcastfeatured-image1280x768v01vandaag.png"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/06/het-politieke-spel-achter-het-bedrog-van-manchester-city-a4938293",
+  "pubDate": "Tue, 06 Oct 2026 05:00:00 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Het politieke spel achter het bedrog van Manchester City"
  },
  "http://www.nrc.nl/4938294": {
   "categories": [
@@ -4792,7 +4906,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/bnELVVzAI4wkuCIkJfdgEdVE8f8=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06080719/061026ECO_2037229489_stroomnet.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/veel-huishoudens-zijn-duur-uit-door-te-zware-stroomaansluiting-a4938294",
   "pubDate": "Tue, 06 Oct 2026 08:13:44 +0200",
   "seen": "Tue, 06 Oct 2026 10:30:34 +0000",
@@ -4824,7 +4938,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/poqnDWHxOqF1a5FLG7eZrJCoHyU=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06150625/061026BUI_2037193105_AfCRAportretWanjieRyder.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/een-eigen-kredietbeoordelaar-begrijpt-de-afrikaanse-economie-nu-eenmaal-beter-a4938297",
   "pubDate": "Tue, 06 Oct 2026 15:48:10 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
@@ -4840,7 +4954,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/NCHCzWcKQgpX47lERzlchWOntUc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06092603/061026ECO_2037231593_scholieren.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/beschikbaarheid-van-ongezond-voedsel-neemt-toe-bijna-geen-school-staat-in-een-gezonde-omgeving-a4938298",
   "pubDate": "Tue, 06 Oct 2026 09:57:05 +0200",
   "seen": "Tue, 06 Oct 2026 10:30:34 +0000",
@@ -4848,6 +4962,7 @@
  },
  "http://www.nrc.nl/4938305": {
   "categories": [
+   "Buitenland",
    "Economie",
    "Voorpagina"
   ],
@@ -4857,7 +4972,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/JsMFtabhh9wcg0R16HvvBbApLGQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06121251/061026BUI_2037234559_.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/frankrijk-en-duitsland-vragen-de-europese-commissie-strenger-op-te-treden-tegen-china-zonder-het-land-bij-naam-te-noemen-a4938305",
   "pubDate": "Tue, 06 Oct 2026 19:19:49 +0200",
   "seen": "Tue, 06 Oct 2026 21:43:15 +0000",
@@ -4889,7 +5004,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/xyLk7zxP8mpcBNRIPgr3Jq4nGEQ=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06120239/061026ECO_2037213952_dePasquale.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/aanklager-de-pasquale-vrijgesproken-van-achterhouden-materiaal-in-shellzaak-a4938308",
   "pubDate": "Tue, 06 Oct 2026 14:16:04 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
@@ -4913,7 +5028,7 @@
  },
  "http://www.nrc.nl/4938320": {
   "categories": [
-   "Voorpagina"
+   "Buitenland"
   ],
   "description": "Met strengere regels bij toetreding wil de Europese Commissie een signaal afgeven aan huidige EU-lidstaten die sceptisch zijn over nieuwe landen. Oekraïne kan niet akkoord gaan met de landbouwrestrictie die de Commissie ze op wil leggen als tegemoetkoming aan Europese boeren.",
   "enclosure": {
@@ -4921,7 +5036,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/sOPW5FEh4iwGq2vj2qNJFDNcRXA=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06133443/061026BUI_2037234474_.jpg"
   },
-  "last": "Tue, 06 Oct 2026 21:43:15 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/nieuwe-lidstaten-die-europese-waarden-niet-naleven-kunnen-hun-stemrecht-verliezen-stelt-europese-commissie-voor-a4938320",
   "pubDate": "Tue, 06 Oct 2026 18:35:52 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
@@ -4953,11 +5068,27 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/RrPxk0T3VkWtdqk-VI2bK4v2kBM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06124629/061026VER_2037239038_lhbti.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/acceptatie-homoseksualiteit-onder-volwassen-nederlanders-stijgt-niet-langer-blijkt-uit-onderzoek-van-movisie-en-ipsos-a4938323",
   "pubDate": "Tue, 06 Oct 2026 17:28:57 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
   "title": "Acceptatie homoseksualiteit onder volwassen Nederlanders stijgt niet langer, blijkt uit onderzoek van Movisie en Ipsos"
+ },
+ "http://www.nrc.nl/4938326": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "De Britse romanschrijver en parlementariër klom op binnen de Tories van oud-premier Margaret Thatcher, maar raakte meermaals in opspraak. Zijn celstraf wegens meineed over een seksschandaal wist hij te gelde te maken door erover te schrijven.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/Gs9U6JdEMpopaH0ZSG5-GTGzb3Y=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06140759/061026BUI_2037234350_3.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/06/bedrog-fictie-en-halve-waarheid-liepen-bij-schrijvende-conservatief-jeffrey-archer-door-elkaar-a4938326",
+  "pubDate": "Tue, 06 Oct 2026 14:26:14 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Bedrog, fictie en (halve) waarheid liepen bij schrijvende Conservatief Jeffrey Archer door elkaar"
  },
  "http://www.nrc.nl/4938327": {
   "categories": [
@@ -4993,7 +5124,8 @@
  },
  "http://www.nrc.nl/4938330": {
   "categories": [
-   "Binnenland"
+   "Binnenland",
+   "Voorpagina"
   ],
   "description": "Hoe kan het hoge aantal mensen met een uitkering in Nederland worden teruggebracht? Werkgevers, vakbonden en het kabinet gaan zoeken naar een oplossing.",
   "enclosure": {
@@ -5001,15 +5133,15 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/9xzSyIS_qrA1fZggCM7eEir6o6o=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06153021/061026DEN_2037222351_sociaalakkoord1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/werkgevers-en-bonden-gaan-nu-eindelijk-om-tafel-maar-vanwege-de-complexe-vraagstukken-verwacht-niemand-snelle-resultaten-a4938330",
   "pubDate": "Tue, 06 Oct 2026 17:08:53 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
-  "title": "Werkgevers en bonden gaan nu eindelijk om tafel, maar vanwege de complexe vraagstukken verwacht niemand snelle resultaten"
+  "title": "Werkgevers en bonden gaan vandaag eindelijk om tafel: dit zijn de drie thema's waarvoor ze een oplossing zoeken"
  },
  "http://www.nrc.nl/4938331": {
   "categories": [
-   "Binnenland",
+   "Den Haag",
    "Voorpagina"
   ],
   "description": "Premier Jetten verdedigde dinsdag zijn plannen in een sceptische Eerste Kamer. Het wordt nog moeilijk om alle begrotingen door de senaat te loodsen. Partijen stellen veel eisen, „dan hebben wij ook eens een feestje”.",
@@ -5018,7 +5150,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/uiCbk7QMMVWjeevv5AzuQl6z6Y0=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06125854/061026BIN_2037164277_eerste1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/het-kabinet-jetten-krijgt-het-moeilijk-in-de-eerste-kamer-maar-pro-en-vvd-vinden-elkaar-daar-wel-a4938331",
   "pubDate": "Tue, 06 Oct 2026 21:56:43 +0200",
   "seen": "Tue, 06 Oct 2026 21:43:15 +0000",
@@ -5026,7 +5158,7 @@
  },
  "http://www.nrc.nl/4938332": {
   "categories": [
-   "Voorpagina"
+   "Buitenland"
   ],
   "description": "Een grote demonstratie in Parijs trok dinsdag veel leerlingen, maar ook docenten, vakbondsleden en ouders. Het Franse onderwijs piept en kraakt, vooral buiten de hoofdstad. „De regering zal na vandaag wel met een groot plan komen, maar daar nemen we geen genoegen mee.”",
   "enclosure": {
@@ -5034,14 +5166,47 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/x53CQBsludvwpeq0pHzF-xXnGic=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06173635/061026BUI_2037226655_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/leerlingen-uit-banlieue-en-sjieke-parijse-wijken-betogen-voor-beter-onderwijs-de-school-van-de-republiek-maakt-zijn-belofte-niet-waar-a4938332",
   "pubDate": "Tue, 06 Oct 2026 19:20:46 +0200",
   "seen": "Tue, 06 Oct 2026 21:43:15 +0000",
   "title": "Leerlingen uit banlieue en sjieke Parijse wijken betogen voor beter onderwijs: ‘De school van de republiek maakt zijn belofte niet waar’"
  },
+ "http://www.nrc.nl/4938336": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "Net zoals bij de NAVO hebben Turkije, Pakistan en Saoedi-Arabië afgesproken dat ze elkaar zullen bijstaan als een van de landen wordt aangevallen. Twee maanden na oprichting van hun Mekka-pact vormen de Houthi-bombardementen een eerste testcase.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/Dd46W6L6mT0Z-8kRfYJiDLmUSzo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06141809/061026BUI_2037246560_-dragend.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/06/hoe-de-islamitische-navo-gestalte-krijgt-turkije-en-pakistan-helpen-saoedi-arabie-tegen-de-houthis-a4938336",
+  "pubDate": "Tue, 06 Oct 2026 15:55:45 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Hoe de ‘islamitische NAVO’ gestalte krijgt: Turkije en Pakistan helpen Saoedi-Arabië tegen de Houthi’s"
+ },
+ "http://www.nrc.nl/4938337": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "De peilingen en prognoses lijken elke dag gunstiger te worden voor de Democraten. Maar hoe betrouwbaar is kiezersonderzoek in tijden van Trump eigenlijk nog?",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/RhJ4tqUU8vMxklqF9Lx5DsmKZtc=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06135103/061026BUI_2037226793_.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/06/democraten-stevenen-af-op-ruime-winst-of-niet-a4938337",
+  "pubDate": "Tue, 06 Oct 2026 14:05:23 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Democraten stevenen af op ruime winst – of niet?"
+ },
  "http://www.nrc.nl/4938341": {
   "categories": [
+   "Buitenland",
    "Voorpagina"
   ],
   "description": "Direct na de aanslag van Hamas op 7 oktober 2023 was Israël eensgezind, maar daar is inmiddels weinig van over. Met verkiezingen in aantocht zijn Israëliërs sterk verdeeld, zowel over de toekomst van het land als over de herinnering aan de slachtoffers. „Ze zouden niet moeten dansen op hun bloed.”",
@@ -5050,7 +5215,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/bR0dkKgun9gVobh3jvzggmrneEo=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06152133/071026BUI_2037055089_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/drie-jaar-na-7-oktober-is-eensgezindheid-onder-israeliers-verdwenen-ik-hoop-dat-de-verkiezingen-verandering-brengen-a4938341",
   "pubDate": "Tue, 06 Oct 2026 22:36:16 +0200",
   "seen": "Wed, 07 Oct 2026 01:38:20 +0000",
@@ -5082,7 +5247,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/KSFW_a0wxm1k7imPwuw_V5QaNDY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06153626/061026ECO_2037252625_tabaksmarkt.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/minister-hermans-wil-nieuwe-nicotineproducten-blokkeren-en-roept-op-tot-bevriezen-europese-markt-a4938348",
   "pubDate": "Tue, 06 Oct 2026 18:22:12 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
@@ -5106,8 +5271,7 @@
  },
  "http://www.nrc.nl/4938350": {
   "categories": [
-   "Economie",
-   "Voorpagina"
+   "Economie"
   ],
   "description": "Booking.com wil de ruim zesduizend Nederlandse werknemers verplichten minstens twee dagen per week naar het hoofdkantoor in Amsterdam te reizen, maar driekwart van het personeel ziet dat niet zitten. Dinsdag stonden de partijen tegenover elkaar in de rechtbank.",
   "enclosure": {
@@ -5115,7 +5279,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/V7GbAiOv5O1UXhSshwBp-RG7UbY=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/05161504/061026OND_2037220456_booking.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/booking-botst-met-ondernemingsraad-over-thuiswerk-ik-voer-al-mijn-gesprekken-in-teams-of-in-slack-wat-maakt-het-uit-waar-ik-zelf-zit-a4938350",
   "pubDate": "Tue, 06 Oct 2026 18:07:27 +0200",
   "seen": "Tue, 06 Oct 2026 17:16:21 +0000",
@@ -5139,8 +5303,7 @@
  },
  "http://www.nrc.nl/4938370": {
   "categories": [
-   "Economie",
-   "Voorpagina"
+   "Economie"
   ],
   "description": "De overname van Warner Bros Discovery door mediaconcern Paramount Skydance ter waarde van 110 miljard dollar is rond.",
   "enclosure": {
@@ -5148,11 +5311,27 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/M2Wi4SS6dK8AAGg_F5Xygezsr60=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06190956/061026VER_2037260082_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/megafusie-in-hollywood-is-een-feit-paramount-neemt-warner-bros-over-voor-110-miljard-dollar-a4938370",
   "pubDate": "Tue, 06 Oct 2026 20:08:18 +0200",
   "seen": "Tue, 06 Oct 2026 21:43:15 +0000",
   "title": "Megafusie in Hollywood is een feit: Paramount neemt Warner Bros over voor 110 miljard dollar"
+ },
+ "http://www.nrc.nl/4938379": {
+  "categories": [
+   "Economie"
+  ],
+  "description": "Goedemorgen! De Nederlandse arbeidsproductiviteit in de commerciële sector is vorig jaar gestegen, met 2,5 procent ten opzichte van 2024. Een jaar eerder was die juist gedaald.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/65J22REz2vWY3qytZZeq2e36im4=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/07081938/071026ECO_2037261358_opening.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/07/arbeidsproductiviteit-commerciele-sector-vorig-jaar-gestegen-a4938379",
+  "pubDate": "Wed, 07 Oct 2026 08:16:32 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Arbeidsproductiviteit  commerciële sector vorig jaar gestegen"
  },
  "http://www.nrc.nl/4938381": {
   "categories": [
@@ -5165,7 +5344,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/8O9D1FVz6WINZyWB7ZGnErlA480=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/06223716/061026DEN_2037262058_1.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/tweede-kamer-wil-dat-defensie-minder-afhankelijk-is-van-amerikaanse-bedrijven-a4938381",
   "pubDate": "Tue, 06 Oct 2026 22:43:56 +0200",
   "seen": "Tue, 06 Oct 2026 21:43:15 +0000",
@@ -5181,7 +5360,7 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/eLhSeoCmXojCTo2uL5D_AtmWPos=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/07005508/TENNESSEE-EXECUTION_77293194.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/christa-pike-bij-bewustzijn-en-aanspreekbaar-na-mislukte-executiepoging-haar-herstel-is-medisch-gezien-ongekend-a4938391",
   "pubDate": "Wed, 07 Oct 2026 01:01:48 +0200",
   "seen": "Wed, 07 Oct 2026 01:38:20 +0000",
@@ -5197,10 +5376,74 @@
    "type": "image/jpeg",
    "url": "https://images.nrc.nl/xd55YXf2pVprstKrqR8dsDqOzUw=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/07014608/Eva-Marie-Saint_77293203.jpg"
   },
-  "last": "Wed, 07 Oct 2026 01:38:20 +0000",
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
   "link": "https://www.nrc.nl/nieuws/2026/10/06/oscaarwinnares-eva-marie-saint-op-102-jarige-leeftijd-overleden-a4938392",
   "pubDate": "Wed, 07 Oct 2026 01:53:07 +0200",
   "seen": "Wed, 07 Oct 2026 01:38:20 +0000",
   "title": "Oscarwinnares Eva Marie Saint op 102-jarige leeftijd overleden"
+ },
+ "http://www.nrc.nl/4938394": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "De hybride aanvallen van Rusland in Europa worden steeds gewelddadiger. Wat wil het Kremlin hiermee bereiken?",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/etdYqyQ4i0U1ALFCxbTVF6PdPCg=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/taxonomy/ea4c1fa-11252025_Wereldzaken_Artikel-%2520en%2520itemafbeelding_1280x768px.png"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/07/welke-mindgames-speelt-poetin-met-hybride-aanvallen-op-europa-a4938394",
+  "pubDate": "Wed, 07 Oct 2026 05:00:00 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Welke mindgames speelt Poetin met hybride aanvallen op Europa?"
+ },
+ "http://www.nrc.nl/4938395": {
+  "categories": [
+   "Buitenland"
+  ],
+  "description": "De aanval van Hamas op 7 oktober 2023 liet diepe sporen na in Israël. Hoe kon dit plaatsvinden met Benjamin Netanyahu als premier, de man die veiligheid voor Israëliërs…",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/ZOVYt7gRsehuoSLpzaacLew_PUc=/1280x/filters:no_upscale():format(jpeg):fill(f8f8f8,true)/s3/static.nrc.nl/podcasts/wp-content/blogs.dir/131/files/2020/11/nrcpodcastfeatured-image1280x768v01vandaag.png"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/07/hoe-7-oktober-de-toekomst-van-netanyahu-bepaalt-a4938395",
+  "pubDate": "Wed, 07 Oct 2026 05:00:00 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Hoe 7 oktober de toekomst van Netanyahu bepaalt"
+ },
+ "http://www.nrc.nl/4938396": {
+  "categories": [
+   "Economie"
+  ],
+  "description": "En weer stoot Nederland een deel van haar aandelen in ABN Amro af. De komende dagen zal de staat zijn belang in ABN Amro terugbrengen van de huidige 20,7 procent naar 10,5 procent.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/MGMNI-njBYpB-aZjcPsoU3nxP3w=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/07083309/071026ECO_2037264220_ABNAMRO.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/07/nederlandse-staat-maakt-belang-in-abn-amro-nog-kleiner-a4938396",
+  "pubDate": "Wed, 07 Oct 2026 08:39:10 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Nederlandse staat verkleint belang in ABN Amro"
+ },
+ "http://www.nrc.nl/4938397": {
+  "categories": [
+   "Voorpagina"
+  ],
+  "description": "Gotink noemt de toenadering die de partij zoekt tot Mona Keijzer de aanleiding voor zijn vertrek. De ideeën van hemzelf en Keijzer over Europa liggen volgens Gotink dusdanig ver uit elkaar dat hij zich gedwongen voelt de partij te verlaten.",
+  "enclosure": {
+   "length": "0",
+   "type": "image/jpeg",
+   "url": "https://images.nrc.nl/Libi4gwp6PiYtRAeFUIwp7BwuvM=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/10/07090317/071026VER_2037265696_NSC.jpg"
+  },
+  "last": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "link": "https://www.nrc.nl/nieuws/2026/10/07/europarlementarier-dirk-gotink-de-laatste-volksvertegenwoordiger-van-nsc-verlaat-de-partij-politieke-doorstart-waar-ik-geen-onderdeel-van-wil-zijn-a4938397",
+  "pubDate": "Wed, 07 Oct 2026 10:44:13 +0200",
+  "seen": "Wed, 07 Oct 2026 08:49:34 +0000",
+  "title": "Europarlementariër Dirk Gotink, de laatste volksvertegenwoordiger van NSC, verlaat de partij: ‘Politieke doorstart waar ik geen onderdeel van wil zijn’"
  }
 }
